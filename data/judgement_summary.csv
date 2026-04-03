@@ -1,0 +1,12 @@
+,value
+total_events,9414.0
+approved,9175.0
+rejected,239.0
+rewritten,0.0
+approval_rate_%,97.46
+agreement_rate_%,93.86
+avg_score_all,92.77
+avg_score_approvers,94.6
+unanimous_approve,8726.0
+unanimous_reject,110.0
+split_vote,578.0
