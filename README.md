@@ -5,7 +5,7 @@ By providing a new version of the **ATOMIC** dataset in forensic format, we exte
 
 ## Contributions
 
-- Generates multiple forensic interpretations (violent, financial, cyber, non-criminal) for a single event. 
+- Generates multiple forensic interpretations (violent, financial, cyber) for a single event. 
 
 ---
 
