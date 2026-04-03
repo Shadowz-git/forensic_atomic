@@ -7,9 +7,3 @@ auxil
 .env
 
 out
-implementation/.env
-implementation/data/training_ready
-implementation/data/split
-**/forensic_model_*/
-
-implementation/logs
