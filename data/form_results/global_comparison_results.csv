@@ -1,0 +1,451 @@
+form_id,original_row_id,event,human_score,human_approval_pct,human_is_approved,score_avg_all,status,llm_is_approved,score_diff_abs,decision_agreement
+FV_1,34,PersonX always buy,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_1,150,PersonX bases upon data,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,199,PersonX beats the cancer,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,365,PersonX breaks ranks,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,352,PersonX burns PersonX's bridges,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,416,PersonX burns the food,55.0,100.0,True,96.67,APPROVED,True,41.67,True
+FV_1,475,PersonX buys PersonX's first car,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_1,501,PersonX buys PersonY's own shoes,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_1,464,PersonX buys PersonY's supplies,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,1033,PersonX buys some things,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,1537,PersonX dresses to kill,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_1,1638,PersonX drops to the ground,100.0,100.0,True,70.0,APPROVED,True,30.0,True
+FV_1,1674,PersonX eats PersonX's gun,100.0,100.0,True,68.33,APPROVED,True,31.67,True
+FV_1,1931,PersonX finds money,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,1980,PersonX follows PersonX's course,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_1,2201,PersonX gets PersonX's act together,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,3045,PersonX gets a ride home,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_1,3439,PersonX gets great seats,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,3548,PersonX gets laid off,70.0,50.0,True,96.67,APPROVED,True,26.67,True
+FV_1,3584,PersonX gets messy,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,3632,PersonX gets near PersonY,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_1,3748,PersonX gets ready to leave,95.0,100.0,True,95.0,APPROVED,True,0.0,True
+FV_1,3782,PersonX gets so good,100.0,100.0,True,68.33,APPROVED,True,31.67,True
+FV_1,3818,PersonX gets some friends,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,4179,PersonX gives PersonX's sister ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,4363,PersonX gives PersonY a peck,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,4747,PersonX gives PersonY the benefit,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_1,4856,PersonX gives PersonY's baby ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,5200,PersonX gives ___ to the world,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_1,5450,PersonX goes to the store to get more,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,5663,PersonX hides in PersonX's closet,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,6245,PersonX kicks into touch,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_1,6219,PersonX kills in PersonY accident,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_1,6386,PersonX loses all PersonX's money,0.0,0.0,False,96.67,APPROVED,True,96.67,False
+FV_1,6818,PersonX opens the window,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_1,6915,PersonX pays PersonY's expenses,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,7090,PersonX pays well,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_1,7174,PersonX persuades ___ to follow,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,7297,PersonX pulls PersonY closer,100.0,100.0,True,68.33,APPROVED,True,31.67,True
+FV_1,7364,PersonX pulls a face,95.0,100.0,True,70.0,APPROVED,True,25.0,True
+FV_1,7530,PersonX pushes back the ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,7737,PersonX sees how the land lies,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,7993,PersonX spends ___ in prison,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_1,8117,PersonX sticks the knife in ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,8123,PersonX stops fighting,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_1,8205,PersonX takes PersonX's dog out,100.0,100.0,True,45.0,REJECTED,False,55.0,False
+FV_1,8644,PersonX takes PersonY's hours,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,8870,PersonX takes ___ of one,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,9116,PersonX takes ___ to the dry cleaners,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_1,9325,PersonX watches the storm,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,190,PersonX breaks PersonX's fall,95.0,100.0,True,70.0,APPROVED,True,25.0,True
+FV_10,276,PersonX breaks every ___,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_10,284,PersonX breaks loose,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,307,PersonX breaks the camel 's ___,100.0,100.0,True,70.0,APPROVED,True,30.0,True
+FV_10,592,PersonX buys ___ from the pet store,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,900,PersonX buys another car,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,1078,PersonX buys the shoes,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,1293,PersonX cuts PersonY's hair,50.0,50.0,True,10.0,REJECTED,False,40.0,False
+FV_10,1919,PersonX finally beat ___,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_10,2298,PersonX gets PersonX's permit,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_10,2412,PersonX gets PersonY idea,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,2588,PersonX gets ___ after school,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,2821,PersonX gets ___ night,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,3206,PersonX gets back on the horse that bucked you,50.0,50.0,True,93.33,APPROVED,True,43.33,True
+FV_10,3381,PersonX gets fed up,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_10,3423,PersonX gets good,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_10,3660,PersonX gets pregnant,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,3745,PersonX gets serious,60.0,50.0,True,70.0,APPROVED,True,10.0,True
+FV_10,3791,PersonX gets some coffee,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_10,3927,PersonX gets something to eat,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,3914,PersonX gets the better of PersonY,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,4314,PersonX gives PersonY a book,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,4597,PersonX gives PersonY employment,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,4695,PersonX gives PersonY relief,100.0,100.0,True,94.67,APPROVED,True,5.329999999999998,True
+FV_10,5007,PersonX gives ___ a refund,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,5134,PersonX gives ___ to one,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,5163,PersonX gives a great speech,80.0,50.0,True,96.67,APPROVED,True,16.67,True
+FV_10,5539,PersonX has any money though,70.0,50.0,True,69.0,APPROVED,True,1.0,True
+FV_10,5641,PersonX has to go to court,70.0,50.0,True,75.0,APPROVED,True,5.0,True
+FV_10,5819,PersonX hits the pavement,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,5828,PersonX hurts PersonY's feelings,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_10,5897,PersonX hurts very badly,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_10,6017,PersonX is hit by a car,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_10,6427,PersonX locks PersonX's keys in PersonX's car,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_10,6637,PersonX opens PersonX's gift,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,6879,PersonX pays PersonY's ___ in full,100.0,100.0,True,95.0,APPROVED,True,5.0,True
+FV_10,6888,PersonX pays PersonY's debts,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,7197,PersonX prevents the ___ from obtaining,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,7382,PersonX pulls back slightly,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,7463,PersonX pulls up stakes,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_10,7554,PersonX pushes ___ away,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,7640,PersonX raises enough money,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,8032,PersonX sells a car,100.0,100.0,True,98.33,APPROVED,True,1.6700000000000017,True
+FV_10,8021,PersonX spends a lot of money,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,8378,PersonX takes PersonY in PersonZ arms,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_10,8541,PersonX takes PersonY's ___ seriously,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_10,8683,PersonX takes PersonY's truck,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,8748,PersonX takes ___ at the end,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,9251,PersonX takes a few minutes,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_10,9332,PersonX watches tv instead,85.0,100.0,True,93.33,APPROVED,True,8.329999999999998,True
+FV_2,449,PersonX burns badly,75.0,50.0,True,96.67,APPROVED,True,21.67,True
+FV_2,390,PersonX burns within PersonY,89.5,100.0,True,96.67,APPROVED,True,7.170000000000002,True
+FV_2,585,PersonX buys ___ from the store,93.0,100.0,True,96.67,APPROVED,True,3.6700000000000017,True
+FV_2,588,PersonX buys ___ often,83.5,100.0,True,96.67,APPROVED,True,13.170000000000002,True
+FV_2,926,PersonX buys food,77.5,100.0,True,98.33,APPROVED,True,20.83,True
+FV_2,1390,PersonX decides to enter,71.5,50.0,True,96.67,APPROVED,True,25.17,True
+FV_2,1500,PersonX does not have enough money,91.5,100.0,True,96.67,APPROVED,True,5.170000000000002,True
+FV_2,2239,PersonX gets PersonX's first tattoo,93.0,100.0,True,95.67,APPROVED,True,2.6700000000000017,True
+FV_2,2594,PersonX gets PersonY's tree,94.0,100.0,True,96.67,APPROVED,True,2.6700000000000017,True
+FV_2,2770,PersonX gets ___ for PersonY's birthday,89.0,100.0,True,96.67,APPROVED,True,7.670000000000002,True
+FV_2,2640,PersonX gets ___ from work,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_2,2694,PersonX gets ___ on PersonX's face,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_2,2844,PersonX gets a coffee,81.0,100.0,True,92.33,APPROVED,True,11.329999999999998,True
+FV_2,2895,PersonX gets a hot dog,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_2,2907,PersonX gets a job offer,90.0,100.0,True,69.0,APPROVED,True,21.0,True
+FV_2,2979,PersonX gets a new kitten,98.5,100.0,True,74.0,APPROVED,True,24.5,True
+FV_2,3476,PersonX gets furious,83.5,50.0,True,95.67,APPROVED,True,12.170000000000002,True
+FV_2,3778,PersonX gets sick,85.0,100.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_2,3868,PersonX gets suspended,93.0,100.0,True,96.67,APPROVED,True,3.6700000000000017,True
+FV_2,4121,PersonX gives PersonX enough rope,59.0,50.0,True,92.33,APPROVED,True,33.33,True
+FV_2,4394,PersonX gives PersonY a ring,93.5,100.0,True,94.67,APPROVED,True,1.1700000000000017,True
+FV_2,5048,PersonX gives ___ detention,90.5,100.0,True,93.33,APPROVED,True,2.8299999999999983,True
+FV_2,5217,PersonX gives it a chance,93.5,100.0,True,91.67,APPROVED,True,1.8299999999999983,True
+FV_2,5327,PersonX gives jeff ___,92.0,100.0,True,96.67,APPROVED,True,4.670000000000002,True
+FV_2,5796,PersonX hits the floor,91.0,100.0,True,70.0,APPROVED,True,21.0,True
+FV_2,5893,PersonX hurts PersonY's arm,89.0,100.0,True,96.67,APPROVED,True,7.670000000000002,True
+FV_2,5915,PersonX immediately grabbed ___,76.0,100.0,True,96.67,APPROVED,True,20.67,True
+FV_2,5964,PersonX invests the money,73.5,100.0,True,95.67,APPROVED,True,22.17,True
+FV_2,5929,PersonX is able to escape,94.0,100.0,True,96.67,APPROVED,True,2.6700000000000017,True
+FV_2,5967,PersonX is caught and arrested,92.0,100.0,True,96.67,APPROVED,True,4.670000000000002,True
+FV_2,6095,PersonX is watching a scary movie,91.0,100.0,True,91.67,APPROVED,True,0.6700000000000017,True
+FV_2,6226,PersonX kills PersonX's darlings,31.5,50.0,True,92.33,APPROVED,True,60.83,True
+FV_2,6447,PersonX makes an account,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_2,6793,PersonX obtains PersonY understanding,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_2,6940,PersonX overflows PersonY's banks,82.0,100.0,True,93.33,APPROVED,True,11.329999999999998,True
+FV_2,7056,PersonX pays taxes,84.5,100.0,True,96.67,APPROVED,True,12.170000000000002,True
+FV_2,7288,PersonX pulls PersonY's back,91.0,100.0,True,95.67,APPROVED,True,4.670000000000002,True
+FV_2,7303,PersonX pulls PersonY's fingers out,91.0,100.0,True,95.67,APPROVED,True,4.670000000000002,True
+FV_2,7301,PersonX pulls PersonY's legs,83.0,100.0,True,92.33,APPROVED,True,9.329999999999998,True
+FV_2,7616,PersonX raises ___ to buy,96.0,100.0,True,96.67,APPROVED,True,0.6700000000000017,True
+FV_2,8225,PersonX takes PersonX's laptop,90.0,100.0,True,11.67,REJECTED,False,78.33,False
+FV_2,8417,PersonX takes PersonY advice,90.5,100.0,True,96.67,APPROVED,True,6.170000000000002,True
+FV_2,8340,PersonX takes PersonY food,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_2,8359,PersonX takes PersonY for a walk,91.0,100.0,True,96.67,APPROVED,True,5.670000000000002,True
+FV_2,8358,PersonX takes PersonY for ice cream,51.5,50.0,True,70.0,APPROVED,True,18.5,True
+FV_2,8607,PersonX takes PersonY's friend,97.0,100.0,True,96.67,APPROVED,True,0.3299999999999983,True
+FV_2,8613,PersonX takes PersonY's kite,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_2,8915,PersonX takes ___ of the situation,88.0,100.0,True,95.67,APPROVED,True,7.670000000000002,True
+FV_2,9173,PersonX takes ___ to prevent,94.0,100.0,True,69.0,APPROVED,True,25.0,True
+FV_2,9183,PersonX takes a back seat,84.5,100.0,True,96.67,APPROVED,True,12.170000000000002,True
+FV_3,118,PersonX beats ___ easily,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_3,324,PersonX breaks my foot,55.0,50.0,True,96.67,APPROVED,True,41.67,True
+FV_3,420,PersonX buys PersonX's dream car,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_3,964,PersonX buys new glasses,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_3,1089,PersonX calls a locksmith,57.5,50.0,True,95.0,APPROVED,True,37.5,True
+FV_3,1420,PersonX decides to give it a try,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_3,1463,PersonX decides to take a break,92.5,100.0,True,95.67,APPROVED,True,3.1700000000000017,True
+FV_3,1476,PersonX does n't pay attention,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_3,1739,PersonX earns money,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,1690,PersonX enters PersonX's car,15.0,0.0,False,15.0,REJECTED,False,0.0,True
+FV_3,2539,PersonX gets PersonY's money 's ___,77.5,50.0,True,96.67,APPROVED,True,19.17,True
+FV_3,2700,PersonX gets ___ anymore,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,2828,PersonX gets a call back,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_3,2912,PersonX gets a kitten,65.0,50.0,True,95.67,APPROVED,True,30.67,True
+FV_3,3169,PersonX gets a scholarship,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_3,3196,PersonX gets back to school,75.0,50.0,True,93.33,APPROVED,True,18.33,True
+FV_3,3512,PersonX gets it replaced,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_3,3636,PersonX gets nothing,67.5,50.0,True,93.33,APPROVED,True,25.83,True
+FV_3,3867,PersonX gets suspended,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_3,4052,PersonX gets to know PersonY,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_3,4077,PersonX gets very upset,87.5,100.0,True,93.33,APPROVED,True,5.829999999999998,True
+FV_3,4264,PersonX gives PersonY a couple,95.0,100.0,True,93.33,APPROVED,True,1.6700000000000017,True
+FV_3,4288,PersonX gives PersonY a haircut,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,4452,PersonX gives PersonY a time,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_3,4533,PersonX gives PersonY advice,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,4587,PersonX gives PersonY ideas,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_3,4741,PersonX gives PersonY impression,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_3,4745,PersonX gives PersonY the command,90.0,100.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_3,4783,PersonX gives PersonY the key,85.0,50.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_3,4919,PersonX gives PersonY's son,92.5,100.0,True,95.0,APPROVED,True,2.5,True
+FV_3,4969,PersonX gives ___ a lollipop,72.5,100.0,True,95.67,APPROVED,True,23.17,True
+FV_3,5076,PersonX gives ___ back,90.0,100.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_3,5107,PersonX gives ___ to PersonX's son,82.5,50.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_3,5528,PersonX grabs PersonY by the arm,90.0,50.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_3,5902,PersonX immediately opened,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_3,6101,PersonX is watching television,87.5,100.0,True,95.67,APPROVED,True,8.170000000000002,True
+FV_3,6355,PersonX locks horns,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_3,6489,PersonX makes much money,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,6579,PersonX makes some extra money,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_3,6782,PersonX opens the floodgates,90.0,100.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_3,6942,PersonX pays ___ for the privilege,82.5,50.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_3,7845,PersonX saves all PersonX's money,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_3,7759,PersonX seizes the ___ by force,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_3,8289,PersonX takes PersonY a long time,60.0,100.0,True,93.33,APPROVED,True,33.33,True
+FV_3,8329,PersonX takes PersonY action,70.0,50.0,True,96.67,APPROVED,True,26.67,True
+FV_3,8525,PersonX takes PersonY's anger,92.5,100.0,True,91.67,APPROVED,True,0.8299999999999983,True
+FV_3,8792,PersonX takes ___ everywhere,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_3,8972,PersonX takes ___ to PersonY's house,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_3,9001,PersonX takes ___ to bed,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_3,9377,PersonX wouldnt hurts a fly,85.0,50.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_4,7,PersonX accidentally dropped ___,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_4,358,PersonX burns PersonY's hand,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_4,465,PersonX buys PersonY a new bike,92.5,100.0,True,94.67,APPROVED,True,2.1700000000000017,True
+FV_4,603,PersonX buys ___ last week,82.5,50.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_4,748,PersonX buys a new microwave,70.0,50.0,True,95.67,APPROVED,True,25.67,True
+FV_4,1320,PersonX cuts PersonY's throat,65.0,50.0,True,96.67,APPROVED,True,31.67,True
+FV_4,1443,PersonX cuts from the team,50.0,50.0,True,69.0,APPROVED,True,19.0,True
+FV_4,1543,PersonX does drugs,77.5,100.0,True,96.67,APPROVED,True,19.17,True
+FV_4,1469,PersonX does magic tricks,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_4,1536,PersonX dresses to kill,45.0,50.0,True,95.67,APPROVED,True,50.67,True
+FV_4,1525,PersonX drinks from a firehose,57.5,50.0,True,93.33,APPROVED,True,35.83,True
+FV_4,1598,PersonX drops a log,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_4,1959,PersonX fires from PersonY's job,72.5,100.0,True,68.33,APPROVED,True,4.170000000000002,True
+FV_4,2385,PersonX gets PersonY answer,95.0,100.0,True,95.0,APPROVED,True,0.0,True
+FV_4,3161,PersonX gets an infection,35.0,0.0,False,45.0,REJECTED,False,10.0,True
+FV_4,3173,PersonX gets angry at PersonY,82.5,100.0,True,93.33,APPROVED,True,10.829999999999998,True
+FV_4,3245,PersonX gets better grades,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_4,3230,PersonX gets better soon,55.0,50.0,True,93.33,APPROVED,True,38.33,True
+FV_4,3291,PersonX gets change,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_4,4012,PersonX gets the wrong one,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_4,4103,PersonX gets worse,60.0,50.0,True,95.0,APPROVED,True,35.0,True
+FV_4,4286,PersonX gives PersonY a feeling,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_4,4350,PersonX gives PersonY a name,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_4,4467,PersonX gives PersonY an allowance,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_4,4770,PersonX gives PersonY opportunities,85.0,100.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_4,4986,PersonX gives ___ a puppy,65.0,50.0,True,98.33,APPROVED,True,33.33,True
+FV_4,5232,PersonX gives another example,60.0,0.0,False,95.67,APPROVED,True,35.67,False
+FV_4,5498,PersonX grabs PersonY's hands,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_4,5855,PersonX hits the snooze button,82.5,100.0,True,92.33,APPROVED,True,9.829999999999998,True
+FV_4,5904,PersonX immediately opened ___,97.5,100.0,True,95.0,APPROVED,True,2.5,True
+FV_4,5920,PersonX injures PersonY's leg,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_4,5933,PersonX injures ___ badly,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_4,6113,PersonX joins forces,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_4,6716,PersonX opens my door,62.5,50.0,True,93.33,APPROVED,True,30.83,True
+FV_4,6783,PersonX orders take out,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_4,6958,PersonX pays PersonX's respects,47.5,50.0,True,93.33,APPROVED,True,45.83,True
+FV_4,7040,PersonX pays enough,82.5,100.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_4,7294,PersonX pulls PersonY's car over,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_4,7704,PersonX saves so much money,85.0,100.0,True,95.0,APPROVED,True,10.0,True
+FV_4,7946,PersonX shoots PersonY dead,60.0,0.0,False,97.67,APPROVED,True,37.67,False
+FV_4,7974,PersonX shoulds break up,92.5,100.0,True,70.0,APPROVED,True,22.5,True
+FV_4,8009,PersonX slowly opened PersonY's eyes,65.0,50.0,True,93.33,APPROVED,True,28.33,True
+FV_4,8194,PersonX takes PersonX's hat,45.0,50.0,True,9.0,REJECTED,False,36.0,False
+FV_4,8252,PersonX takes PersonX's phone,25.0,0.0,False,13.33,REJECTED,False,11.67,True
+FV_4,8432,PersonX takes PersonY responsibility,92.5,100.0,True,95.0,APPROVED,True,2.5,True
+FV_4,8819,PersonX takes ___ in the future,52.5,50.0,True,95.67,APPROVED,True,43.17,True
+FV_4,8835,PersonX takes ___ in the past,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_4,9070,PersonX takes ___ to school,70.0,50.0,True,71.67,APPROVED,True,1.6700000000000017,True
+FV_4,9231,PersonX takes ___ to the movies,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_4,9401,PersonX works hard to get,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_5,614,PersonX buys ___ for school,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,791,PersonX buys ___ to a concert,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,763,PersonX buys a new pet,90.0,100.0,True,93.33,APPROVED,True,3.3299999999999983,True
+FV_5,812,PersonX buys a new video game,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,976,PersonX buys another ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,968,PersonX buys my son,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_5,950,PersonX buys new furniture,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_5,1013,PersonX buys some milk,70.0,50.0,True,93.33,APPROVED,True,23.33,True
+FV_5,1028,PersonX buys some snacks,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,1144,PersonX carries out PersonX's threat,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,1186,PersonX chokes the chicken,100.0,100.0,True,95.0,APPROVED,True,5.0,True
+FV_5,1408,PersonX decides to get a haircut,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,1542,PersonX does drugs,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,1486,PersonX does n't get in trouble,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,1596,PersonX drops a hint,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,1688,PersonX encourages PersonY's ___ hither,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_5,1929,PersonX fights PersonY's battle,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,2028,PersonX follows christ 's ___,85.0,100.0,True,93.33,APPROVED,True,8.329999999999998,True
+FV_5,2181,PersonX gets PersonX's ___ in the door,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_5,2363,PersonX gets PersonY a dog,80.0,50.0,True,94.67,APPROVED,True,14.670000000000002,True
+FV_5,2471,PersonX gets PersonY's ball,70.0,50.0,True,98.33,APPROVED,True,28.33,True
+FV_5,2961,PersonX gets a new boss,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,3078,PersonX gets a summer job,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,3374,PersonX gets engaged,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,3622,PersonX gets home ___,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_5,3517,PersonX gets home from work,85.0,50.0,True,93.33,APPROVED,True,8.329999999999998,True
+FV_5,3657,PersonX gets popular,100.0,100.0,True,98.33,APPROVED,True,1.6700000000000017,True
+FV_5,3943,PersonX gets stolen,50.0,50.0,True,48.33,REJECTED,False,1.6700000000000017,False
+FV_5,4744,PersonX gives PersonY the chance,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,5054,PersonX gives PersonY's detention,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,5305,PersonX gives the baby,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,5991,PersonX is getting ready for work,90.0,100.0,True,93.33,APPROVED,True,3.3299999999999983,True
+FV_5,6101,PersonX is watching television,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,6468,PersonX makes breakfast for PersonY's family,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,6499,PersonX makes pancakes for breakfast,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,6851,PersonX pays PersonY bill,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,6867,PersonX pays PersonY dollars,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,6955,PersonX pays ___ to one,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,7104,PersonX pays the fiddler,60.0,50.0,True,96.67,APPROVED,True,36.67,True
+FV_5,8313,PersonX takes PersonY along,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,8779,PersonX takes PersonY's temperature,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,8858,PersonX takes ___ inside,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,8974,PersonX takes ___ to PersonX's mom,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,9028,PersonX takes ___ to fix,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,9120,PersonX takes ___ to the ocean,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,9179,PersonX takes a big gulp,90.0,100.0,True,92.33,APPROVED,True,2.3299999999999983,True
+FV_5,9264,PersonX takes a different route,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_5,9246,PersonX takes a flyer,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_5,9353,PersonX watches the waves,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_5,9358,PersonX wishes could take,50.0,50.0,True,93.33,APPROVED,True,43.33,True
+FV_6,327,PersonX breaks the news,100.0,100.0,True,96.0,APPROVED,True,4.0,True
+FV_6,496,PersonX buys PersonY a new car,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_6,613,PersonX buys ___ that day,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,717,PersonX buys a motorcycle,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,951,PersonX buys new furniture,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,1033,PersonX buys some things,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,1054,PersonX buys the house,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,1395,PersonX decides to buy a new pair,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_6,1409,PersonX decides to make PersonY's breakfast in bed,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_6,1467,PersonX decides to pull over,100.0,100.0,True,92.33,APPROVED,True,7.670000000000002,True
+FV_6,1591,PersonX drops hints,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,1765,PersonX enters a contest,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_6,1863,PersonX files PersonY application,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,2069,PersonX forces PersonY back,55.0,50.0,True,96.67,APPROVED,True,41.67,True
+FV_6,2242,PersonX forgets to set PersonX's alarm,50.0,50.0,True,92.33,APPROVED,True,42.33,True
+FV_6,2328,PersonX gets PersonX's money back,75.0,100.0,True,95.67,APPROVED,True,20.67,True
+FV_6,3149,PersonX gets an apartment,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,3176,PersonX gets another,85.0,100.0,True,96.0,APPROVED,True,11.0,True
+FV_6,3164,PersonX gets away with murder,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_6,3430,PersonX gets good grades,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,3406,PersonX gets great grades in school,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,3836,PersonX gets out while the gettings good,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_6,3714,PersonX gets pulled over,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_6,3840,PersonX gets something to drink,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,4054,PersonX gets very good,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,4232,PersonX gives PersonY a big hug,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,4370,PersonX gives PersonY a hard time,65.0,50.0,True,95.67,APPROVED,True,30.67,True
+FV_6,5544,PersonX hacks it,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,6068,PersonX is shot and killed,65.0,100.0,True,96.67,APPROVED,True,31.67,True
+FV_6,6150,PersonX keeps PersonY account,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,6180,PersonX kills PersonX's mother,85.0,100.0,True,92.33,APPROVED,True,7.329999999999998,True
+FV_6,6210,PersonX kills birds with stone,90.0,50.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_6,6330,PersonX lives a lie,90.0,100.0,True,96.67,APPROVED,True,6.670000000000002,True
+FV_6,6397,PersonX makes PersonX's escape,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,6565,PersonX never buy ___,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,6597,PersonX never get ___,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_6,6679,PersonX opens PersonY's ___ wide,95.0,50.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_6,7424,PersonX pulls the ___ together,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,7522,PersonX pushes ___ around,80.0,50.0,True,96.67,APPROVED,True,16.67,True
+FV_6,7771,PersonX sells PersonX's ___ to the devil,85.0,50.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_6,7947,PersonX shoots PersonY dead,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,7985,PersonX shoots the ball,70.0,50.0,True,70.0,APPROVED,True,0.0,True
+FV_6,8006,PersonX shops online,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,8109,PersonX stops following PersonY,75.0,100.0,True,95.67,APPROVED,True,20.67,True
+FV_6,8152,PersonX takes PersonX's cat,49.0,50.0,True,11.67,REJECTED,False,37.33,False
+FV_6,8296,PersonX takes PersonX's wife out,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,8467,PersonX takes PersonY to disney world,100.0,100.0,True,93.33,APPROVED,True,6.670000000000002,True
+FV_6,8522,PersonX takes PersonY up on the offer,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_6,8842,PersonX takes ___ in the struggle,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_6,9390,PersonX watches the show,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_8,27,PersonX accidentally kicked,47.5,50.0,True,23.33,REJECTED,False,24.17,False
+FV_8,177,PersonX borrows ___ to buy,87.5,100.0,True,95.67,APPROVED,True,8.170000000000002,True
+FV_8,304,PersonX breaks PersonY's nose,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_8,841,PersonX buys a new tent,50.0,50.0,True,96.67,APPROVED,True,46.67,True
+FV_8,963,PersonX buys everything PersonY needed,90.0,100.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_8,995,PersonX buys some new clothes,67.5,50.0,True,95.67,APPROVED,True,28.17,True
+FV_8,1222,PersonX buys some supplies,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_8,1369,PersonX cuts the grass,82.5,100.0,True,93.33,APPROVED,True,10.829999999999998,True
+FV_8,1431,PersonX decides to save PersonX's money,85.0,100.0,True,93.33,APPROVED,True,8.329999999999998,True
+FV_8,1490,PersonX does n't know what to get,57.5,50.0,True,92.33,APPROVED,True,34.83,True
+FV_8,1843,PersonX enters the science fair,85.0,100.0,True,93.33,APPROVED,True,8.329999999999998,True
+FV_8,2212,PersonX gets PersonX's blood drawn,77.5,100.0,True,96.67,APPROVED,True,19.17,True
+FV_8,2336,PersonX gets PersonX's skates on,50.0,50.0,True,93.33,APPROVED,True,43.33,True
+FV_8,2380,PersonX gets PersonY a gift,90.0,100.0,True,98.33,APPROVED,True,8.329999999999998,True
+FV_8,2658,PersonX gets ___ for school,82.5,100.0,True,96.33,APPROVED,True,13.829999999999998,True
+FV_8,2679,PersonX gets ___ off the ground,75.0,50.0,True,96.67,APPROVED,True,21.67,True
+FV_8,2805,PersonX gets a bath,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_8,3270,PersonX gets calls,45.0,50.0,True,11.67,REJECTED,False,33.33,False
+FV_8,3444,PersonX gets dinner,87.5,100.0,True,94.67,APPROVED,True,7.170000000000002,True
+FV_8,3657,PersonX gets popular,77.5,100.0,True,98.33,APPROVED,True,20.83,True
+FV_8,3729,PersonX gets really scared,52.5,50.0,True,96.67,APPROVED,True,44.17,True
+FV_8,4407,PersonX gives PersonY a shove,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_8,4490,PersonX gives PersonY another ___,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_8,5120,PersonX gives ___ to PersonY's grandmother,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_8,5521,PersonX giveth PersonX's ___ for the sheep,77.5,100.0,True,95.67,APPROVED,True,18.17,True
+FV_8,5565,PersonX has caught fire,50.0,50.0,True,70.0,APPROVED,True,20.0,True
+FV_8,5730,PersonX hits a deer,54.5,50.0,True,96.67,APPROVED,True,42.17,True
+FV_8,6023,PersonX is low on money,60.0,50.0,True,96.67,APPROVED,True,36.67,True
+FV_8,6139,PersonX kills PersonX's son,45.0,50.0,True,95.67,APPROVED,True,50.67,True
+FV_8,6252,PersonX launches PersonY attack,62.5,50.0,True,96.67,APPROVED,True,34.17,True
+FV_8,6562,PersonX never use ___,87.5,100.0,True,92.33,APPROVED,True,4.829999999999998,True
+FV_8,6629,PersonX obtains every ___,87.5,100.0,True,95.67,APPROVED,True,8.170000000000002,True
+FV_8,6862,PersonX pays PersonY homage,82.5,100.0,True,95.67,APPROVED,True,13.170000000000002,True
+FV_8,6933,PersonX pays ___ back,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_8,6943,PersonX pays ___ for the privilege,87.5,100.0,True,95.67,APPROVED,True,8.170000000000002,True
+FV_8,7209,PersonX prevents the ___ from entering,80.0,50.0,True,96.67,APPROVED,True,16.67,True
+FV_8,7270,PersonX pulls PersonY over for speeding,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_8,7540,PersonX pushes the car,67.5,50.0,True,96.67,APPROVED,True,29.17,True
+FV_8,7693,PersonX saves enough money,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_8,7811,PersonX saves some money,72.5,100.0,True,96.67,APPROVED,True,24.17,True
+FV_8,7775,PersonX sells PersonX's ___ to the bidder,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_8,7905,PersonX sentences to prison,52.5,50.0,True,70.0,APPROVED,True,17.5,True
+FV_8,8310,PersonX takes PersonY ___ to get there,82.5,100.0,True,95.67,APPROVED,True,13.170000000000002,True
+FV_8,8338,PersonX takes PersonY hand,50.0,50.0,True,35.67,REJECTED,False,14.329999999999998,False
+FV_8,8413,PersonX takes PersonY out to dinner,92.5,100.0,True,95.67,APPROVED,True,3.1700000000000017,True
+FV_8,8669,PersonX takes PersonY's stand,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_8,8839,PersonX takes ___ lying down,80.0,100.0,True,96.67,APPROVED,True,16.67,True
+FV_8,9095,PersonX takes ___ to the carnival,70.0,50.0,True,95.67,APPROVED,True,25.67,True
+FV_8,9144,PersonX takes ___ to the store,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_8,9145,PersonX takes ___ to the store,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_9,198,PersonX beats the cancer,85.0,100.0,True,96.67,APPROVED,True,11.670000000000002,True
+FV_9,173,PersonX begs for money,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_9,455,PersonX buys PersonY's phone,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,1145,PersonX carries out PersonX's threat,95.0,100.0,True,95.67,APPROVED,True,0.6700000000000017,True
+FV_9,1189,PersonX chokes on PersonX's food,77.5,100.0,True,93.33,APPROVED,True,15.829999999999998,True
+FV_9,1363,PersonX conceals PersonY's identity,100.0,100.0,True,71.67,APPROVED,True,28.33,True
+FV_9,1551,PersonX drags PersonY away,80.0,50.0,True,96.67,APPROVED,True,16.67,True
+FV_9,1546,PersonX drops PersonX's laptop,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,1750,PersonX enters into PersonY alliance,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_9,1939,PersonX fights every ___,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,2015,PersonX follows PersonY's lead,95.0,100.0,True,94.67,APPROVED,True,0.3299999999999983,True
+FV_9,2452,PersonX gets PersonY together,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_9,2638,PersonX gets ___ from the vending machine,92.5,100.0,True,98.33,APPROVED,True,5.829999999999998,True
+FV_9,2702,PersonX gets ___ in return,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,2968,PersonX gets a new job,87.5,100.0,True,96.67,APPROVED,True,9.170000000000002,True
+FV_9,3175,PersonX gets another,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_9,3349,PersonX gets down on one knee,85.0,100.0,True,94.67,APPROVED,True,9.670000000000002,True
+FV_9,3574,PersonX gets lucky,85.0,100.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_9,3657,PersonX gets popular,97.5,100.0,True,98.33,APPROVED,True,0.8299999999999983,True
+FV_9,4045,PersonX gets there on time,85.0,100.0,True,95.67,APPROVED,True,10.670000000000002,True
+FV_9,4190,PersonX gives PersonX's testimony,82.5,100.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_9,4317,PersonX gives PersonY a bonus,97.5,100.0,True,95.67,APPROVED,True,1.8299999999999983,True
+FV_9,4266,PersonX gives PersonY a dinner,95.0,100.0,True,92.33,APPROVED,True,2.6700000000000017,True
+FV_9,4437,PersonX gives PersonY a way,90.0,100.0,True,95.67,APPROVED,True,5.670000000000002,True
+FV_9,4441,PersonX gives PersonY a welcome,93.5,100.0,True,96.67,APPROVED,True,3.1700000000000017,True
+FV_9,4490,PersonX gives PersonY another ___,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,4511,PersonX gives PersonY anything,94.0,100.0,True,96.67,APPROVED,True,2.6700000000000017,True
+FV_9,4609,PersonX gives PersonY explanation,65.0,0.0,False,96.67,APPROVED,True,31.67,False
+FV_9,4768,PersonX gives PersonY the gift,81.5,100.0,True,96.67,APPROVED,True,15.170000000000002,True
+FV_9,4964,PersonX gives ___ PersonY opportunity,89.0,100.0,True,98.33,APPROVED,True,9.329999999999998,True
+FV_9,5171,PersonX gives birth to PersonY,65.0,50.0,True,96.67,APPROVED,True,31.67,True
+FV_9,5522,PersonX giveth PersonX's ___ for the sheep,95.0,100.0,True,96.67,APPROVED,True,1.6700000000000017,True
+FV_9,5866,PersonX hurts PersonY much,82.5,100.0,True,92.33,APPROVED,True,9.829999999999998,True
+FV_9,5909,PersonX hurts so bad,67.5,50.0,True,35.0,REJECTED,False,32.5,False
+FV_9,5967,PersonX is caught and arrested,100.0,100.0,True,96.67,APPROVED,True,3.3299999999999983,True
+FV_9,6256,PersonX knows would give,77.5,50.0,True,96.67,APPROVED,True,19.17,True
+FV_9,6452,PersonX makes a break for it,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_9,6499,PersonX makes pancakes for breakfast,82.5,100.0,True,96.67,APPROVED,True,14.170000000000002,True
+FV_9,6613,PersonX obtains ___ by means,82.5,100.0,True,95.67,APPROVED,True,13.170000000000002,True
+FV_9,7186,PersonX prevents PersonY's escape,100.0,100.0,True,95.67,APPROVED,True,4.329999999999998,True
+FV_9,7368,PersonX pulls into the parking lot,77.5,100.0,True,95.67,APPROVED,True,18.17,True
+FV_9,7415,PersonX pulls out all the stops,95.0,100.0,True,93.33,APPROVED,True,1.6700000000000017,True
+FV_9,7645,PersonX pushes PersonY's ___ back,75.0,100.0,True,96.67,APPROVED,True,21.67,True
+FV_9,7941,PersonX sets the thames on fire,55.0,0.0,False,68.33,APPROVED,True,13.329999999999998,False
+FV_9,7972,PersonX simply buy ___,92.5,100.0,True,96.67,APPROVED,True,4.170000000000002,True
+FV_9,8199,PersonX takes PersonX's first steps,77.5,50.0,True,93.33,APPROVED,True,15.829999999999998,True
+FV_9,8417,PersonX takes PersonY advice,97.5,100.0,True,96.67,APPROVED,True,0.8299999999999983,True
+FV_9,8458,PersonX takes PersonY to PersonX's favorite restaurant,95.0,100.0,True,94.67,APPROVED,True,0.3299999999999983,True
+FV_9,8636,PersonX takes PersonY's mom 's advice,87.5,100.0,True,93.33,APPROVED,True,5.829999999999998,True
+FV_9,9033,PersonX takes ___ to disneyland,93.5,100.0,True,96.67,APPROVED,True,3.1700000000000017,True
