@@ -125,26 +125,6 @@ Fields that contain lists (e.g., xReason, xIntent, xNeed, etc.) can include MORE
 ]
 """
 
-# Prompt used to generate synthetic events for specific categories (used in core/synthetic.py)
-SYNTHETIC_PROMPT = """
-You are a Dataset Engineer for a Criminology AI.
-Generate {count} distinct event templates related to "{category}".
-
-REQUIREMENTS:
-1. Format must be EXACTLY like ATOMIC dataset: "PersonX [verb] ..."
-2. Use "PersonX" as the perpetrator.
-3. Use "___" (3 underscores) as placeholders for objects/victims occasionally.
-4. Topics must be purely forensic/criminal.
-
-EXAMPLES:
-- "PersonX breaks the ___ with a crowbar"
-- "PersonX steals the identity of ___"
-- "PersonX uploads a virus to ___"
-- "PersonX threatens PersonY with ___"
-
-OUTPUT FORMAT:
-Return ONLY a JSON list of strings: ["template1", "template2", ...]
-"""
 # JUDGE & EVALUATION PROMPTS
 
 # Prompt used by the LLM Judges to evaluate a generated event (used in core/judge.py)
