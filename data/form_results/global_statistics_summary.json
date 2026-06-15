@@ -1,11 +1,11 @@
 {
-    "total_events": 450,
-    "human_approval_pct": 98.2,
+    "total_events": 550,
+    "human_approval_pct": 88.7,
     "llm_approval_pct": 97.1,
-    "decision_agreement_pct": 96.7,
-    "mean_human_score": 86.3,
-    "mean_llm_score": 92.4,
-    "mean_absolute_diff": 11.8,
-    "pearson_r": 0.38,
-    "spearman_rho": 0.136
+    "decision_agreement_pct": 86.9,
+    "mean_human_score": 85.1,
+    "mean_llm_score": 92.2,
+    "mean_absolute_diff": 15.1,
+    "pearson_r": 0.037,
+    "spearman_rho": -0.015
 }
