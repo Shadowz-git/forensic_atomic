@@ -1,6 +1,6 @@
 before(px_accumulates_cash_from_criminal_activity, buys_car).
 before(px_identifies_suitable_asset, buys_car).
-before(buys_car, px_selects_vehicle).
+before(px_selects_vehicle, buys_car).
 before(px_selects_vehicle,
        px_arranges_payment_in_cash_or_structured_deposits).
 before(px_arranges_payment_in_cash_or_structured_deposits,
@@ -12,7 +12,7 @@ before(to_register_car_in_own_name,
 
 before(px_accumulates_cash_from_criminal_activity, buys_car).
 before(px_identifies_suitable_asset, buys_car).
-before(buys_car, px_selects_vehicle).
+before(px_selects_vehicle, buys_car).
 before(px_selects_vehicle,
        px_arranges_payment_in_cash_or_structured_deposits).
 before(px_arranges_payment_in_cash_or_structured_deposits,
