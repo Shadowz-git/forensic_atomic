@@ -13,17 +13,17 @@ By providing a new version of the **ATOMIC** dataset in forensic format, we exte
 
 ### Dataset Statistics
 
-The final F-Atomic dataset consists of **9,414 validated forensic instances**, each representing a unique (event, crime_category) pair enriched with 16 relational dimensions from the ATOMIC2020 ontology. The Poly-Category Branching strategy produced multiple distinct criminal interpretations per source event.
+The final F-Atomic dataset consists of **9,175 validated forensic instances**, each representing a unique (event, crime_category) pair enriched with 16 relational dimensions from the ATOMIC2020 ontology. The Poly-Category Branching strategy produced multiple distinct criminal interpretations per source event.
 
 | Crime Category         | Instances | Percentage |
 |:-----------------------|----------:|:----------:|
-| Financial Crimes       |     2,925 |   31.1%    |
-| Organized Crimes       |     2,100 |   22.3%    |
-| Violent Crimes         |     1,973 |   21.0%    |
-| Property Crimes        |     1,324 |   14.1%    |
-| Cyber Crimes           |       857 |    9.1%    |
-| Public Order / Justice |       235 |    2.5%    |
-| **Total**              | **9,414** |            |
+| Financial Crimes       |     2,894 |   31.5%    |
+| Organized Crimes       |     2,072 |   22.6%    |
+| Violent Crimes         |     1,877 |   20.5%    |
+| Property Crimes        |     1,254 |   13.7%    |
+| Cyber Crimes           |       844 |    9.2%    |
+| Public Order / Justice |       234 |    2.6%    |
+| **Total**              | **9,175** |  100.0%    |
 
 ---
 
