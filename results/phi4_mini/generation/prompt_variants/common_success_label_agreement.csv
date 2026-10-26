@@ -1,0 +1,19 @@
+﻿event,with_examples_pairs,without_examples_pairs,shared_pairs,jaccard,same_pair_set
+PersonX accepts PersonY's invitation,2,2,2,1.0,True
+PersonX cancels PersonX's appointment,2,2,1,0.3333,False
+PersonX declines PersonY's invitation,1,2,1,0.5,False
+PersonX deprives PersonY of the power,2,2,2,1.0,True
+PersonX does ___ in PersonX's power to make,2,2,0,0.0,False
+PersonX exchanges flesh,2,2,1,0.3333,False
+PersonX exchanges information,2,2,2,1.0,True
+PersonX exchanges phone numbers,2,2,1,0.3333,False
+PersonX exercises PersonX's power,2,2,2,1.0,True
+PersonX feels PersonX's power,2,2,1,0.3333,False
+PersonX is within PersonY's power,2,2,0,0.0,False
+PersonX keeps PersonY appointment,2,2,1,0.3333,False
+PersonX loses PersonY's power,2,2,1,0.3333,False
+PersonX loses power,2,2,2,1.0,True
+PersonX removes ___ from power,2,2,0,0.0,False
+PersonX reschedules PersonY's appointment,2,2,1,0.3333,False
+PersonX schedules an appointment,2,2,1,0.3333,False
+PersonX shows PersonX's power,2,2,1,0.3333,False

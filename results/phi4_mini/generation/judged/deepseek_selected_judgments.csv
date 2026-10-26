@@ -1,0 +1,71 @@
+original_row_id,event,status,rewritten,score_avg_all,score_avg_approvers,approvals_count,majority_vote,judge1_provider,judge1_vote,judge1_score,judge1_reason,judge2_provider,judge2_vote,judge2_score,judge2_reason,judge3_provider,judge3_vote,judge3_score,judge3_reason
+2,PersonX derives PersonX's powers from the consent,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+12,PersonX brings ___ to power,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+31,PersonX feels PersonY's power,APPROVED,False,94.67,94.67,3,True,openai,approve,92,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+22,PersonX exchanges gifts,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+41,PersonX increases PersonX's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+51,PersonX loses power,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+3,PersonX derives PersonX's powers from the consent,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+61,PersonX removes ___ from power,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+13,PersonX brings ___ to power,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+23,PersonX exchanges gifts,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+42,PersonX keeps PersonY appointment,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+32,PersonX exchanges information,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+52,PersonX maintains PersonX's power,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+62,PersonX reschedules PersonY's appointment,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+4,PersonX accepts ___ in exchange,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+14,PersonX accepts PersonY's invitation,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+33,PersonX exchanges information,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+24,PersonX exercises PersonX's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+43,PersonX keeps PersonY appointment,APPROVED,False,95.0,95.0,3,True,openai,approve,100,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+53,PersonX maintains PersonX's power,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+63,PersonX reschedules PersonY's appointment,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+15,PersonX accepts PersonY's invitation,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+5,PersonX accepts ___ in exchange,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+34,PersonX feels PersonX's power,APPROVED,False,95.0,95.0,3,True,openai,approve,100,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+25,PersonX exercises PersonX's power,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+44,PersonX increases PersonY's power,APPROVED,False,94.0,94.0,3,True,openai,approve,90,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+64,PersonX reschedules PersonX's appointment,APPROVED,False,97.33,97.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+54,PersonX loses PersonY's power,APPROVED,False,65.0,97.5,2,True,openai,error,0,Expecting value: line 1 column 1 (char 0),anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+6,PersonX cancels PersonX's appointment,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+16,PersonX declines PersonY's invitation,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+26,PersonX exchanges phone numbers,APPROVED,False,95.0,95.0,3,True,openai,approve,93,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+35,PersonX feels PersonX's power,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+45,PersonX increases PersonY's power,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+55,PersonX loses PersonY's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+7,PersonX cancels PersonX's appointment,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+65,PersonX reschedules PersonX's appointment,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+17,PersonX declines PersonY's invitation,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+36,PersonX exchanges insurance information,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+27,PersonX exchanges phone numbers,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+46,PersonX is beyond PersonY's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+56,PersonX misses PersonX's appointment,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+66,PersonX schedules an appointment,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+18,PersonX derives PersonY's powers from the consent,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+8,PersonX deprives PersonY of the power,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+37,PersonX exchanges insurance information,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+28,PersonX does ___ in PersonX's power to make,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+47,PersonX is beyond PersonY's power,APPROVED,False,95.0,95.0,3,True,openai,approve,100,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+57,PersonX misses PersonX's appointment,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+67,PersonX schedules an appointment,APPROVED,False,97.33,97.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+9,PersonX deprives PersonY of the power,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+19,PersonX derives PersonY's powers from the consent,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+38,PersonX is within PersonY's power,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+29,PersonX does ___ in PersonX's power to make,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+48,PersonX makes PersonY appointment,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+58,PersonX receives PersonY invitation,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+68,PersonX shows PersonX's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+0,PersonX accepts PersonY appointment,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+10,PersonX consolidates PersonX's power,APPROVED,False,98.33,98.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+20,PersonX exchanges flesh,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+30,PersonX feels PersonY's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+49,PersonX makes PersonY appointment,APPROVED,False,95.67,95.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+39,PersonX is within PersonY's power,APPROVED,False,70.67,96.0,2,True,openai,reject,20,"CONSISTENCY: xEffect attributes a sense of power to PersonX, contradicting the event where PersonX is under PersonY's power (powerless).",anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+69,PersonX shows PersonX's power,APPROVED,False,97.33,97.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+59,PersonX receives PersonY invitation,APPROVED,False,95.0,95.0,3,True,openai,approve,93,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+1,PersonX accepts PersonY appointment,APPROVED,False,97.33,97.33,3,True,openai,approve,100,All criteria met.,anthropic,approve,92,All criteria met.,gemini,approve,100,All criteria met.
+11,PersonX consolidates PersonX's power,APPROVED,False,95.67,95.67,3,True,openai,approve,92,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+21,PersonX exchanges flesh,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+40,PersonX increases PersonX's power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.
+50,PersonX loses power,APPROVED,False,96.67,96.67,3,True,openai,approve,95,All criteria met.,anthropic,approve,95,All criteria met.,gemini,approve,100,All criteria met.
+60,PersonX removes ___ from power,APPROVED,False,93.33,93.33,3,True,openai,approve,95,All criteria met.,anthropic,approve,85,All criteria met.,gemini,approve,100,All criteria met.

@@ -1,0 +1,4 @@
+﻿Comparison,Comparable events,Mean Jaccard (%)
+Base vs Fine-tuned,35,29.99857142857143
+Base vs DeepSeek,35,17.142
+Fine-tuned vs DeepSeek,35,43.331428571428575

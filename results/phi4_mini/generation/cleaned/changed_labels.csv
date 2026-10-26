@@ -1,0 +1,8 @@
+﻿model,source_row,event,category_before,category_after,subcategory_before,subcategory_after
+base,9,PersonX cancels PersonX's appointment,Organized Crimes,Financial Crimes,Fraud,Fraud
+base,28,PersonX exchanges insurance information,Financial Crimes,Financial Crimes,Insurance Fraud,Fraud
+base,29,PersonX exchanges insurance information,Organized Crimes,Financial Crimes,Money Laundering,Money Laundering
+base,45,PersonX loses power,Cyber Crimes,,Denial of Service (DoS) Attack,
+base,50,PersonX misses PersonX's appointment,Organized Crimes,Financial Crimes,Fraud,Fraud
+base,56,PersonX reschedules PersonX's appointment,Organized Crimes,Financial Crimes,Fraud,Fraud
+finetuned,7,PersonX brings ___ to power,Financial Crimes,,Corruption,

@@ -1,0 +1,3 @@
+﻿variant,selected_events,successful_events,failed_events,successful_branches,events_with_two_branches,success_rate_pct
+with_extra_examples,35,33,2,63,30,94.29
+without_extra_examples,35,19,16,38,19,54.29

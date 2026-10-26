@@ -1,0 +1,16 @@
+﻿model,crime_category,count
+base,Organized Crimes,41
+base,Financial Crimes,12
+base,Public Order/Justice,4
+base,Cyber Crimes,4
+finetuned,Financial Crimes,32
+finetuned,Organized Crimes,24
+finetuned,Cyber Crimes,7
+finetuned,Public Order/Justice,4
+finetuned,Violent Crimes,1
+finetuned,Property Crimes,1
+deepseek,Financial Crimes,26
+deepseek,Organized Crimes,20
+deepseek,Violent Crimes,13
+deepseek,Cyber Crimes,8
+deepseek,Public Order/Justice,3

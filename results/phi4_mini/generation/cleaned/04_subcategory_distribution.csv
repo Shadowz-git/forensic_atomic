@@ -1,0 +1,36 @@
+﻿model,crime_subcategory,count
+base,Human Trafficking,17
+base,Racketeering,15
+base,Drug Trafficking,9
+base,Fraud,6
+base,Money Laundering,5
+base,Obstruction of Justice,4
+base,Phishing,2
+base,Hacking,2
+base,Embezzlement,1
+finetuned,Fraud,26
+finetuned,Racketeering,14
+finetuned,Drug Trafficking,7
+finetuned,Hacking,5
+finetuned,Obstruction of Justice,4
+finetuned,Bribery,3
+finetuned,Human Trafficking,3
+finetuned,Money Laundering,3
+finetuned,Identity Theft,2
+finetuned,Assault,1
+finetuned,Arson,1
+deepseek,Fraud,15
+deepseek,Racketeering,12
+deepseek,Bribery,8
+deepseek,Kidnapping,7
+deepseek,Drug Trafficking,6
+deepseek,Assault,6
+deepseek,Obstruction of Justice,3
+deepseek,Hacking,3
+deepseek,Identity Theft,2
+deepseek,Human Trafficking,2
+deepseek,Online Harassment,2
+deepseek,Money Laundering,1
+deepseek,Embezzlement,1
+deepseek,Tax Evasion,1
+deepseek,Phishing,1

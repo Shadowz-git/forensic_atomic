@@ -1,0 +1,4 @@
+﻿Model,Events covered (%),Events with >=2 branches (%),Events with >=1 mapped branch (%),Mapped branches (%),Changed labels (%),isFilledBy without ___ (%) [diagnostic],Mean branches per event,Total branches
+Phi-4 Base,100.0,77.14285714285714,100.0,98.38709677419355,9.67741935483871,100.0,1.7714285714285714,62
+Phi-4 Fine-tuned,100.0,100.0,100.0,98.57142857142857,1.4285714285714286,19.35483870967742,2.0,70
+DeepSeek,100.0,100.0,100.0,100.0,0.0,41.935483870967744,2.0,70

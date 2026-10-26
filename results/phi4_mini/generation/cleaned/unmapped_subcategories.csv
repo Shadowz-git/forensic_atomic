@@ -1,0 +1,3 @@
+﻿model,source_row,event,original_category,original_subcategory
+base,45,PersonX loses power,Cyber Crimes,Denial of Service (DoS) Attack
+finetuned,7,PersonX brings ___ to power,Financial Crimes,Corruption

@@ -1,0 +1,4 @@
+﻿model,common_events,branches_after_validator,events_with_validated_branches,branches_after_cleaning,covered_events_after_cleaning,branches_with_mapped_taxonomy,events_with_mapped_branch,non_latin_rows_removed,rows_with_unmapped_subcategory,rows_with_changed_labels,isFilledBy_without_placeholder_diagnostic,coverage_pct_after_cleaning,mapped_coverage_pct,mean_nonempty_relations_per_branch
+base,35,62,35,62,35,61,35,0,1,6,54,100.0,100.0,15.92
+finetuned,35,70,35,70,35,69,35,0,1,1,12,100.0,100.0,15.29
+deepseek,35,70,35,70,35,70,35,0,0,0,26,100.0,100.0,15.49

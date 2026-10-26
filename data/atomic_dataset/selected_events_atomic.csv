@@ -1,0 +1,36 @@
+,event,oEffect,oReact,oWant,xAttr,xEffect,xIntent,xNeed,xReact,xWant,prefix,split
+0,PersonX accepts PersonY appointment,[],[],[],[],[],[],[],[],[],[],trn
+1,PersonX accepts PersonY's invitation,[],[],[],[],[],[],[],[],[],[],trn
+2,PersonX accepts ___ in exchange,[],[],[],[],[],[],[],[],[],[],trn
+3,PersonX brings ___ to power,[],[],[],[],[],[],[],[],[],[],trn
+4,PersonX cancels PersonX's appointment,[],[],[],[],[],[],[],[],[],[],trn
+5,PersonX consolidates PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
+6,PersonX declines PersonY's invitation,[],[],[],[],[],[],[],[],[],[],trn
+7,PersonX deprives PersonY of the power,[],[],[],[],[],[],[],[],[],[],trn
+8,PersonX derives PersonX's powers from the consent,[],[],[],[],[],[],[],[],[],[],trn
+9,PersonX derives PersonY's powers from the consent,[],[],[],[],[],[],[],[],[],[],trn
+10,PersonX does ___ in PersonX's power to make,[],[],[],[],[],[],[],[],[],[],trn
+11,PersonX exchanges flesh,[],[],[],[],[],[],[],[],[],[],trn
+12,PersonX exchanges gifts,[],[],[],[],[],[],[],[],[],[],trn
+13,PersonX exchanges information,[],[],[],[],[],[],[],[],[],[],trn
+14,PersonX exchanges insurance information,[],[],[],[],[],[],[],[],[],[],trn
+15,PersonX exchanges phone numbers,[],[],[],[],[],[],[],[],[],[],trn
+16,PersonX exercises PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
+17,PersonX feels PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
+18,PersonX feels PersonY's power,[],[],[],[],[],[],[],[],[],[],trn
+19,PersonX increases PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
+20,PersonX increases PersonY's power,[],[],[],[],[],[],[],[],[],[],trn
+21,PersonX is beyond PersonY's power,[],[],[],[],[],[],[],[],[],[],trn
+22,PersonX is within PersonY's power,[],[],[],[],[],[],[],[],[],[],trn
+23,PersonX keeps PersonY appointment,[],[],[],[],[],[],[],[],[],[],trn
+24,PersonX loses PersonY's power,[],[],[],[],[],[],[],[],[],[],trn
+25,PersonX loses power,[],[],[],[],[],[],[],[],[],[],trn
+26,PersonX maintains PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
+27,PersonX makes PersonY appointment,[],[],[],[],[],[],[],[],[],[],trn
+28,PersonX misses PersonX's appointment,[],[],[],[],[],[],[],[],[],[],trn
+29,PersonX receives PersonY invitation,[],[],[],[],[],[],[],[],[],[],trn
+30,PersonX removes ___ from power,[],[],[],[],[],[],[],[],[],[],trn
+31,PersonX reschedules PersonX's appointment,[],[],[],[],[],[],[],[],[],[],trn
+32,PersonX reschedules PersonY's appointment,[],[],[],[],[],[],[],[],[],[],trn
+33,PersonX schedules an appointment,[],[],[],[],[],[],[],[],[],[],trn
+34,PersonX shows PersonX's power,[],[],[],[],[],[],[],[],[],[],trn
