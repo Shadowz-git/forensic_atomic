@@ -1,0 +1,2 @@
+﻿source_rows,unique_events,matched_log_rows,unmatched_or_nonunique_log_rows,status_disagreements,score_disagreements_above_0_11,category_mapped_rows
+550,538,107,443,0,0,104

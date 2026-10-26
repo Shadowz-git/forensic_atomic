@@ -1,0 +1,7 @@
+﻿human_measure,threshold,n,human_approval_pct,llm_approval_pct,agreement_pct,cohen_kappa,precision_vs_human,recall_vs_human,f1_vs_human,tp,tn,fp,fn
+human_score,50,671,89.72,100.0,89.72,0.0,0.897,1.0,0.946,602,0,69,0
+human_score,60,671,82.71,100.0,82.71,0.0,0.827,1.0,0.905,555,0,116,0
+human_approval_pct,50,671,92.85,100.0,92.85,0.0,0.928,1.0,0.963,623,0,48,0
+human_approval_pct,60,671,81.67,100.0,81.67,0.0,0.817,1.0,0.899,548,0,123,0
+human_score_and_approval_pct_ge_50,50,671,88.82,100.0,88.82,0.0,0.888,1.0,0.941,596,0,75,0
+human_score_and_approval_pct_ge_50,60,671,82.56,100.0,82.56,0.0,0.826,1.0,0.904,554,0,117,0

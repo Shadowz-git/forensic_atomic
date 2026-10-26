@@ -1,0 +1,4 @@
+﻿provider,votes,approvals,mean_score
+anthropic,9414,8844,88.16
+gemini,9414,9165,97.59
+openai,9414,9197,92.57

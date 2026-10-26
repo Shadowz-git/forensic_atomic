@@ -1,0 +1,2 @@
+﻿cohort,rows,unique_events,mean_human_score,mean_llm_score,mean_absolute_score_difference,llm_approval_pct
+historical,550,538,85.07,92.23,15.06,97.09

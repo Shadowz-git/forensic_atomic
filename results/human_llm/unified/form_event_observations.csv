@@ -1,0 +1,701 @@
+﻿form_number,original_row_id,event,human_score,approvals,decisions,responses,llm_approved,human_approval_pct
+1,1392,PersonX decides to buy a new one,100.0,1,1,1,True,100.0
+1,1617,PersonX drops one,60.0,1,1,1,True,100.0
+1,2684,PersonX gets ___ next time,100.0,1,1,1,True,100.0
+1,3630,PersonX gets nervous,70.0,1,1,1,True,100.0
+1,3639,PersonX gets out of PersonY's car,40.0,0,1,1,True,0.0
+1,4014,PersonX gets things done,100.0,1,1,1,True,100.0
+1,4484,PersonX gives PersonY a shake,50.0,1,1,1,True,100.0
+1,4677,PersonX gives PersonY freedom,80.0,1,1,1,True,100.0
+1,4858,PersonX gives PersonY trouble,100.0,1,1,1,True,100.0
+1,5429,PersonX goes to get married,20.0,0,1,1,True,0.0
+1,5913,PersonX is ___ before could get,100.0,1,1,1,True,100.0
+1,6752,PersonX opens one eye,50.0,1,1,1,True,100.0
+1,7002,PersonX pays ___ to the government,40.0,0,1,1,True,0.0
+1,7106,PersonX pays through the nose,70.0,1,1,1,True,100.0
+1,7382,PersonX pulls back slightly,90.0,1,1,1,True,100.0
+1,767,PersonX buys a new pair of boots,80.0,1,1,1,True,100.0
+1,8759,PersonX takes ___ at home,60.0,1,1,1,True,100.0
+1,8779,PersonX takes PersonY's temperature,60.0,1,1,1,True,100.0
+1,9033,PersonX takes ___ to disneyland,50.0,1,1,1,True,100.0
+1,9412,PersonX writes ___ online,70.0,1,1,1,True,100.0
+2,1315,PersonX cuts a figure,80.0,1,1,1,True,100.0
+2,1647,PersonX earns a lot of money,100.0,1,1,1,True,100.0
+2,1794,PersonX feels guilty about it,50.0,0,1,1,True,0.0
+2,2094,PersonX follows PersonY's steps,100.0,1,1,1,True,100.0
+2,2576,PersonX gets ___ as a gift,90.0,1,1,1,True,100.0
+2,2620,PersonX gets ___ ever,90.0,1,1,1,True,100.0
+2,4327,PersonX gives PersonY a minute,100.0,1,1,1,True,100.0
+2,5556,PersonX has a stab,80.0,1,1,1,True,100.0
+2,566,PersonX buys ___ on sale,90.0,1,1,1,True,100.0
+2,6631,PersonX opens PersonX's big mouth,90.0,1,1,1,True,100.0
+2,7494,PersonX pushes PersonY's back,70.0,1,1,1,True,100.0
+2,7561,PersonX pushes the ___ forward,70.0,1,1,1,True,100.0
+2,8438,PersonX takes PersonY to a bar,100.0,1,1,1,True,100.0
+2,8494,PersonX takes PersonY to the house,100.0,1,1,1,True,100.0
+2,8987,PersonX takes ___ to a shop,100.0,1,1,1,True,100.0
+2,9057,PersonX takes ___ to mcdonald 's,100.0,1,1,1,True,100.0
+2,912,PersonX buys bottled water,100.0,1,1,1,True,100.0
+2,9201,PersonX takes a bath,90.0,1,1,1,True,100.0
+2,9319,PersonX watches PersonY's face,100.0,1,1,1,True,100.0
+2,9363,PersonX watches youtube videos,100.0,1,1,1,True,100.0
+4,1509,PersonX downloads the app,40.0,0,1,1,True,0.0
+4,1665,PersonX eats a slice,20.0,0,1,1,True,0.0
+4,3118,PersonX gets a parking ticket,70.0,1,1,1,True,100.0
+4,3444,PersonX gets dinner,70.0,1,1,1,True,100.0
+4,359,PersonX breaks wind,20.0,0,1,1,True,0.0
+4,3616,PersonX gets my license,100.0,1,1,1,True,100.0
+4,3645,PersonX gets on the stick,100.0,1,1,1,True,100.0
+4,4739,PersonX gives PersonY the eye,90.0,1,1,1,True,100.0
+4,4912,PersonX gives PersonY the name,80.0,1,1,1,True,100.0
+4,5331,PersonX gives the dog away,60.0,1,1,1,True,100.0
+4,5379,PersonX gives the speech,80.0,1,1,1,True,100.0
+4,5888,PersonX hurts badly,100.0,1,1,1,True,100.0
+4,6403,PersonX lies behind PersonY,60.0,1,1,1,True,100.0
+4,6719,PersonX obtains PersonY order,40.0,0,1,1,True,0.0
+4,6772,PersonX opens the door,60.0,1,1,1,True,100.0
+4,7361,PersonX pulls PersonX's ___ away,80.0,1,1,1,True,100.0
+4,7750,PersonX sells PersonX's home,40.0,0,1,1,True,0.0
+4,8159,PersonX steals anything,90.0,1,1,1,True,100.0
+4,8353,PersonX takes PersonY examination,70.0,1,1,1,True,100.0
+4,8874,PersonX takes ___ of everything,80.0,1,1,1,True,100.0
+6,1265,PersonX cuts PersonX's losses,95.0,2,2,2,True,100.0
+6,1412,PersonX decides to make breakfast,85.0,2,2,2,True,100.0
+6,1609,PersonX drops my phone,100.0,2,2,2,True,100.0
+6,2063,PersonX follows the manufacturer 's ___,95.0,2,2,2,True,100.0
+6,3847,PersonX gets stitches,100.0,2,2,2,True,100.0
+6,4059,PersonX gets very excited,75.0,2,2,2,True,100.0
+6,4144,PersonX gives PersonX's mother,100.0,2,2,2,True,100.0
+6,4184,PersonX gives PersonX's son,80.0,2,2,2,True,100.0
+6,4995,PersonX gives ___ a go,95.0,2,2,2,True,100.0
+6,5034,PersonX gives ___ another chance,90.0,2,2,2,True,100.0
+6,5576,PersonX grabs PersonY's hand,95.0,2,2,2,True,100.0
+6,56,PersonX badly burned,95.0,2,2,2,True,100.0
+6,59,PersonX always watch ___,80.0,2,2,2,True,100.0
+6,629,PersonX buys ___ for PersonY's family,85.0,2,2,2,True,100.0
+6,7082,PersonX pays more attention,100.0,2,2,2,True,100.0
+6,7722,PersonX saves money on bread,90.0,2,2,2,True,100.0
+6,8439,PersonX takes PersonY steps,90.0,2,2,2,True,100.0
+6,8500,PersonX takes PersonY to the movies,90.0,2,2,2,True,100.0
+6,8882,PersonX takes ___ of opportunities,90.0,2,2,2,True,100.0
+6,9092,PersonX takes ___ to the grocery store,50.0,1,2,2,True,50.0
+7,1428,PersonX decides to rob a bank,60.0,2,2,2,True,100.0
+7,1471,PersonX develops ___ for use,50.0,1,2,2,True,50.0
+7,1763,PersonX earns some extra money,55.0,1,2,2,True,50.0
+7,2063,PersonX follows the manufacturer 's ___,70.0,1,2,2,True,50.0
+7,220,PersonX beats around the bush,80.0,2,2,2,True,100.0
+7,286,PersonX breaks my arm,85.0,2,2,2,True,100.0
+7,3717,PersonX gets ready to go out,40.0,1,2,2,True,50.0
+7,3760,PersonX gets shot,40.0,0,2,2,True,0.0
+7,3797,PersonX gets sicker,60.0,1,2,2,True,50.0
+7,3919,PersonX gets the hang of it,55.0,1,2,2,True,50.0
+7,4093,PersonX gilds the pill,70.0,2,2,2,True,100.0
+7,4216,PersonX gives PersonX's consent,40.0,1,2,2,True,50.0
+7,4380,PersonX gives PersonY a high five,35.0,1,2,2,True,50.0
+7,5153,PersonX gives away the store,55.0,1,2,2,True,50.0
+7,5180,PersonX gives dan ___,30.0,0,2,2,True,0.0
+7,7225,PersonX publishes ___ online,60.0,1,2,2,True,50.0
+7,7315,PersonX pulls PersonY's head,75.0,2,2,2,True,100.0
+7,8028,PersonX spends ___ getting,65.0,1,2,2,True,50.0
+7,8275,PersonX takes PersonX's wife,85.0,2,2,2,True,100.0
+7,8485,PersonX takes PersonY to the circus,30.0,1,2,2,True,50.0
+8,2203,PersonX forgets to study,90.0,1,1,1,True,100.0
+8,2896,PersonX gets a grip,80.0,1,1,1,True,100.0
+8,3693,PersonX gets ready,80.0,1,1,1,True,100.0
+8,4063,PersonX gets very bored,90.0,1,1,1,True,100.0
+8,4078,PersonX gets very upset,80.0,1,1,1,True,100.0
+8,4888,PersonX gives PersonY the strength,80.0,1,1,1,True,100.0
+8,4975,PersonX gives PersonY's son ___,90.0,1,1,1,True,100.0
+8,5982,PersonX is getting married,90.0,1,1,1,True,100.0
+8,6017,PersonX is hit by a car,80.0,1,1,1,True,100.0
+8,619,PersonX buys ___ instead,90.0,1,1,1,True,100.0
+8,6274,PersonX licks PersonX's wounds,80.0,1,1,1,True,100.0
+8,6312,PersonX kills PersonY's husband,90.0,1,1,1,True,100.0
+8,7085,PersonX pays no attention to PersonY,90.0,1,1,1,True,100.0
+8,8107,PersonX steals money,90.0,1,1,1,True,100.0
+8,8475,PersonX takes PersonY in PersonY's arms,90.0,1,1,1,True,100.0
+8,849,PersonX buys a snack,90.0,1,1,1,True,100.0
+8,8594,PersonX takes PersonY's dog to the dog park,90.0,1,1,1,True,100.0
+8,8679,PersonX takes PersonY's shoes off,90.0,1,1,1,True,100.0
+8,8680,PersonX takes PersonY's shoes off,90.0,1,1,1,True,100.0
+8,9405,PersonX wins a lot of money,90.0,1,1,1,True,100.0
+9,2450,PersonX gets PersonY wrong,60.0,1,1,1,True,100.0
+9,2843,PersonX gets a call from PersonY's boss,90.0,1,1,1,True,100.0
+9,3118,PersonX gets a parking ticket,100.0,1,1,1,True,100.0
+9,3541,PersonX gets long,60.0,1,1,1,True,100.0
+9,3717,PersonX gets ready to go out,90.0,1,1,1,True,100.0
+9,3912,PersonX gets the cat,40.0,0,1,1,True,0.0
+9,4287,PersonX gives PersonY a haircut,90.0,1,1,1,True,100.0
+9,436,PersonX buys PersonY one,100.0,1,1,1,True,100.0
+9,4528,PersonX gives PersonY credit,90.0,1,1,1,True,100.0
+9,4794,PersonX gives PersonY the names,90.0,1,1,1,True,100.0
+9,5116,PersonX gives ___ away,90.0,1,1,1,True,100.0
+9,5495,PersonX grabs PersonY's shoulders,90.0,1,1,1,True,100.0
+9,5618,PersonX helps get started,80.0,1,1,1,True,100.0
+9,6454,PersonX makes lots of money,90.0,1,1,1,True,100.0
+9,6512,PersonX mows PersonY's lawn,50.0,1,1,1,True,100.0
+9,6761,PersonX opens every ___,90.0,1,1,1,True,100.0
+9,7043,PersonX pays attention,100.0,1,1,1,True,100.0
+9,8499,PersonX takes PersonY to the movies,50.0,1,1,1,True,100.0
+9,9245,PersonX takes ___ well,90.0,1,1,1,True,100.0
+9,9322,PersonX watches the news ___,90.0,1,1,1,True,100.0
+11,1176,PersonX buys the guitar,40.0,3,3,3,True,100.0
+11,2271,PersonX forgets the milk,40.0,2,3,3,True,66.66666666666667
+11,2866,PersonX gets a girlfriend,40.0,2,3,3,True,66.66666666666667
+11,304,PersonX breaks PersonY's nose,90.0,3,3,3,True,100.0
+11,3083,PersonX gets a table,36.666666666666664,1,3,3,True,33.333333333333336
+11,397,PersonX buys PersonX's first house,43.333333333333336,3,3,3,True,100.0
+11,4516,PersonX gives PersonY bread,60.0,2,3,3,True,66.66666666666667
+11,4803,PersonX gives PersonY the runaround,86.66666666666667,3,3,3,True,100.0
+11,5246,PersonX gives notice,40.0,1,3,3,True,33.333333333333336
+11,5489,PersonX goes to buy a new one,40.0,1,3,3,True,33.333333333333336
+11,558,PersonX buys ___ for cheap,43.333333333333336,1,3,3,True,33.333333333333336
+11,7404,PersonX pulls a prank on PersonY,36.666666666666664,1,3,3,True,33.333333333333336
+11,8060,PersonX spends all of PersonX's money,33.333333333333336,2,3,3,True,66.66666666666667
+11,8126,PersonX sticks to PersonX's guns,33.333333333333336,1,3,3,True,33.333333333333336
+11,8183,PersonX takes PersonX's exam,70.0,2,3,3,True,66.66666666666667
+11,847,PersonX buys a replacement,26.666666666666668,0,3,3,True,0.0
+11,8869,PersonX takes ___ of business,63.333333333333336,3,3,3,True,100.0
+11,8981,PersonX takes ___ out for a ride,56.666666666666664,3,3,3,True,100.0
+11,9142,PersonX takes ___ to keep,63.333333333333336,3,3,3,True,100.0
+11,9172,PersonX takes ___ to prevent,70.0,3,3,3,True,100.0
+12,1078,PersonX buys the shoes,80.0,1,1,1,True,100.0
+12,1919,PersonX finally beat ___,60.0,1,1,1,True,100.0
+12,1925,PersonX finds one online,100.0,1,1,1,True,100.0
+12,2020,PersonX follows ___ around,100.0,1,1,1,True,100.0
+12,2128,PersonX forgets PersonX's umbrella,70.0,1,1,1,True,100.0
+12,2247,PersonX gets PersonX's grades up,100.0,1,1,1,True,100.0
+12,2445,PersonX gets PersonY picture,80.0,1,1,1,True,100.0
+12,3915,PersonX gets the chance,80.0,1,1,1,True,100.0
+12,4038,PersonX gets to the point,100.0,1,1,1,True,100.0
+12,4659,PersonX gives PersonY outline,80.0,1,1,1,True,100.0
+12,495,PersonX buys PersonY a new one,100.0,1,1,1,True,100.0
+12,5043,PersonX gives ___ access,80.0,1,1,1,True,100.0
+12,5164,PersonX gives ___ to PersonX's brother,100.0,1,1,1,True,100.0
+12,5507,PersonX grabs ___ from behind,100.0,1,1,1,True,100.0
+12,5695,PersonX hits PersonY's car,80.0,1,1,1,True,100.0
+12,6338,PersonX locks PersonY's keys,70.0,1,1,1,True,100.0
+12,6976,PersonX pays ___ to get,80.0,1,1,1,True,100.0
+12,7717,PersonX saves up enough money,50.0,1,1,1,True,100.0
+12,9322,PersonX watches the news ___,80.0,1,1,1,True,100.0
+12,9358,PersonX wishes could take,100.0,1,1,1,True,100.0
+14,1308,PersonX cuts PersonY's leg,100.0,1,1,1,True,100.0
+14,155,PersonX also watched,80.0,1,1,1,True,100.0
+14,2119,PersonX forgets PersonX's lunch,0.0,0,1,1,True,0.0
+14,2542,PersonX gets PersonY's phone back,70.0,1,1,1,True,100.0
+14,2808,PersonX gets a break,100.0,1,1,1,True,100.0
+14,342,PersonX breaks up with PersonY's girlfriend,90.0,1,1,1,True,100.0
+14,4164,PersonX gets very old,80.0,1,1,1,True,100.0
+14,4572,PersonX gives PersonY guidance,100.0,1,1,1,True,100.0
+14,4611,PersonX gives PersonY instructions,100.0,1,1,1,True,100.0
+14,4897,PersonX gives PersonY's girlfriend,40.0,0,1,1,True,0.0
+14,4976,PersonX gives PersonY's son ___,100.0,1,1,1,True,100.0
+14,5405,PersonX goes and buy,90.0,1,1,1,True,100.0
+14,6038,PersonX is going to kill PersonY,100.0,1,1,1,True,100.0
+14,6539,PersonX needs more money,100.0,1,1,1,True,100.0
+14,6834,PersonX pays PersonX's expenses,100.0,1,1,1,True,100.0
+14,754,PersonX buys a new keyboard,80.0,1,1,1,True,100.0
+14,758,PersonX buys a gift card,100.0,1,1,1,True,100.0
+14,8462,PersonX takes PersonY to the beach,80.0,1,1,1,True,100.0
+14,851,PersonX buys a shirt,100.0,1,1,1,True,100.0
+14,8794,PersonX takes ___ for ice cream,100.0,1,1,1,True,100.0
+17,1111,PersonX buys some stock,70.0,2,2,2,True,100.0
+17,1766,PersonX enters upon a career,40.0,1,2,2,True,50.0
+17,2429,PersonX gets PersonY job,50.0,1,2,2,True,50.0
+17,2929,PersonX gets a kick out of ___,90.0,2,2,2,True,100.0
+17,3559,PersonX gets it done,65.0,2,2,2,True,100.0
+17,4079,PersonX gets very mad,85.0,2,2,2,True,100.0
+17,4155,PersonX gives PersonX's lives,40.0,1,2,2,True,50.0
+17,4830,PersonX gives PersonY what for ___,60.0,1,2,2,True,50.0
+17,5749,PersonX hits a pole,90.0,2,2,2,True,100.0
+17,6208,PersonX kicks PersonY's legs,80.0,1,2,2,True,50.0
+17,6419,PersonX leaves ___ on account,70.0,2,2,2,True,100.0
+17,6452,PersonX makes a break for it,60.0,2,2,2,True,100.0
+17,6660,PersonX opens PersonY door,50.0,1,2,2,True,50.0
+17,7206,PersonX prevents PersonY from entering,45.0,1,2,2,True,50.0
+17,744,PersonX buys a new home,45.0,1,2,2,True,50.0
+17,7751,PersonX sees could get,35.0,0,2,2,True,0.0
+17,8227,PersonX takes PersonX's hand in PersonZ's,40.0,1,2,2,True,50.0
+17,8315,PersonX takes PersonY by the hand,65.0,2,2,2,True,100.0
+17,917,PersonX buys every ___,50.0,0,2,2,True,0.0
+17,990,PersonX buys one for PersonY,40.0,0,2,2,True,0.0
+20,1298,PersonX cuts a swath,80.0,1,1,1,True,100.0
+20,1466,PersonX does n't have a lot of money,40.0,0,1,1,True,0.0
+20,1471,PersonX develops ___ for use,80.0,1,1,1,True,100.0
+20,1759,PersonX enters the contest,70.0,1,1,1,True,100.0
+20,2569,PersonX gets PersonY's ticket,90.0,1,1,1,True,100.0
+20,4098,PersonX gets what PersonY needed,90.0,1,1,1,True,100.0
+20,4609,PersonX gives PersonY explanation,90.0,1,1,1,True,100.0
+20,5120,PersonX gives ___ to PersonY's grandmother,90.0,1,1,1,True,100.0
+20,5246,PersonX gives notice,80.0,1,1,1,True,100.0
+20,6316,PersonX lies on the ground,100.0,1,1,1,True,100.0
+20,6398,PersonX makes PersonX's escape,70.0,1,1,1,True,100.0
+20,671,PersonX buys a dog,40.0,0,1,1,True,0.0
+20,7692,PersonX robs a bank,80.0,1,1,1,True,100.0
+20,7907,PersonX sells PersonY's ___ at prices,80.0,1,1,1,True,100.0
+20,7917,PersonX seriously hurt,90.0,1,1,1,True,100.0
+20,8328,PersonX takes PersonY fishing,80.0,1,1,1,True,100.0
+20,873,PersonX buys a used one,60.0,1,1,1,True,100.0
+20,874,PersonX buys an apple,50.0,1,1,1,True,100.0
+20,8970,PersonX takes ___ out for a walk,70.0,1,1,1,True,100.0
+20,9359,PersonX wishes could take,70.0,1,1,1,True,100.0
+21,1120,PersonX can n't afford to buy one,90.0,2,2,2,True,100.0
+21,137,PersonX beats the bishop,50.0,1,2,2,True,50.0
+21,2323,PersonX gets PersonX's fill,85.0,2,2,2,True,100.0
+21,2897,PersonX gets a grip,90.0,2,2,2,True,100.0
+21,3280,PersonX gets close,100.0,2,2,2,True,100.0
+21,3314,PersonX gets back to work,100.0,2,2,2,True,100.0
+21,3351,PersonX gets done,50.0,1,2,2,True,50.0
+21,3951,PersonX gets the money,95.0,2,2,2,True,100.0
+21,4118,PersonX gives PersonX's friends ___,95.0,2,2,2,True,100.0
+21,4208,PersonX gives PersonY PersonX's name,35.0,1,2,2,True,50.0
+21,4276,PersonX gives PersonY a education,90.0,2,2,2,True,100.0
+21,4450,PersonX gives PersonY a wink,95.0,2,2,2,True,100.0
+21,4808,PersonX gives PersonY to understand,100.0,2,2,2,True,100.0
+21,4878,PersonX gives PersonY's dog,80.0,2,2,2,True,100.0
+21,764,PersonX buys a new pair,85.0,2,2,2,True,100.0
+21,7997,PersonX shoots the messenger,65.0,1,2,2,True,50.0
+21,8587,PersonX takes PersonY's dog,65.0,2,2,2,True,100.0
+21,8772,PersonX takes PersonY's revenge,100.0,2,2,2,True,100.0
+21,9131,PersonX takes ___ to the sink,100.0,2,2,2,True,100.0
+21,9283,PersonX takes a cab home,100.0,2,2,2,True,100.0
+24,1354,PersonX cuts it,100.0,1,1,1,True,100.0
+24,1731,PersonX enters a marathon,80.0,1,1,1,True,100.0
+24,1959,PersonX fires from PersonY's job,30.0,0,1,1,True,0.0
+24,2480,PersonX gets PersonY's bike,90.0,1,1,1,True,100.0
+24,3817,PersonX gets some friends,90.0,1,1,1,True,100.0
+24,3867,PersonX gets suspended,80.0,1,1,1,True,100.0
+24,4110,PersonX gives 110%,90.0,1,1,1,True,100.0
+24,4147,PersonX gives PersonX's kids ___,80.0,1,1,1,True,100.0
+24,4478,PersonX gives PersonY an ultimatum,90.0,1,1,1,True,100.0
+24,4928,PersonX gives PersonY's support,90.0,1,1,1,True,100.0
+24,5850,PersonX hits a rock,70.0,1,1,1,True,100.0
+24,6769,PersonX never followed,80.0,1,1,1,True,100.0
+24,7146,PersonX plays kick ball,60.0,1,1,1,True,100.0
+24,7163,PersonX pays bills,90.0,1,1,1,True,100.0
+24,7248,PersonX protects ___ from damage,90.0,1,1,1,True,100.0
+24,749,PersonX buys a new microwave,50.0,1,1,1,True,100.0
+24,7703,PersonX saves so much money,80.0,1,1,1,True,100.0
+24,8365,PersonX takes PersonY into custody,90.0,1,1,1,True,100.0
+24,8594,PersonX takes PersonY's dog to the dog park,70.0,1,1,1,True,100.0
+24,8645,PersonX takes PersonY's part,90.0,1,1,1,True,100.0
+25,1083,PersonX buys paper towels,80.0,2,2,2,True,100.0
+25,2404,PersonX gets PersonY sleep,85.0,2,2,2,True,100.0
+25,3074,PersonX gets a stain,45.0,0,2,2,True,0.0
+25,3225,PersonX gets an email,50.0,1,2,2,True,50.0
+25,357,PersonX burns PersonY's hand,70.0,2,2,2,True,100.0
+25,3801,PersonX gets soaked,65.0,1,2,2,True,50.0
+25,5037,PersonX gives ___ an f,95.0,2,2,2,True,100.0
+25,5606,PersonX has to pay a fine,75.0,2,2,2,True,100.0
+25,61,PersonX accidentally cut,65.0,1,2,2,True,50.0
+25,6444,PersonX makes ___ online,95.0,2,2,2,True,100.0
+25,6846,PersonX pays PersonX's water bill,95.0,2,2,2,True,100.0
+25,7009,PersonX pays a ___ to get,95.0,2,2,2,True,100.0
+25,7800,PersonX sells PersonY into slavery,75.0,1,2,2,True,50.0
+25,8105,PersonX stops PersonY in his tracks,70.0,1,2,2,True,50.0
+25,8136,PersonX stops watching the news,15.0,0,2,2,True,0.0
+25,8502,PersonX takes PersonY to disneyland,65.0,1,2,2,True,50.0
+25,8721,PersonX takes ___ all day,80.0,2,2,2,True,100.0
+25,8843,PersonX takes ___ in the struggle,75.0,1,2,2,True,50.0
+25,8996,PersonX takes ___ to a shelter,75.0,2,2,2,True,100.0
+25,9197,PersonX takes a ___ to get,85.0,2,2,2,True,100.0
+28,1251,PersonX cuts PersonX's ___ according,45.0,1,2,2,True,50.0
+28,1920,PersonX finds ___ online,95.0,2,2,2,True,100.0
+28,2488,PersonX gets PersonY start,75.0,2,2,2,True,100.0
+28,3107,PersonX gets a zero,50.0,1,2,2,True,50.0
+28,3226,PersonX gets an email,75.0,2,2,2,True,100.0
+28,3528,PersonX gets jealous,95.0,2,2,2,True,100.0
+28,3653,PersonX gets on PersonY's nerves,85.0,2,2,2,True,100.0
+28,5547,PersonX hails a taxi,55.0,1,2,2,True,50.0
+28,5589,PersonX has enough money to pay PersonX's rent,80.0,2,2,2,True,100.0
+28,5730,PersonX hits a deer,25.0,0,2,2,True,0.0
+28,5836,PersonX hits a tree,75.0,2,2,2,True,100.0
+28,5995,PersonX is getting ready for school,70.0,2,2,2,True,100.0
+28,727,PersonX buys a new camera,60.0,2,2,2,True,100.0
+28,7307,PersonX pulls PersonY's hand back,80.0,2,2,2,True,100.0
+28,7557,PersonX pushes the door open,90.0,2,2,2,True,100.0
+28,7567,PersonX puts ___ online,90.0,2,2,2,True,100.0
+28,778,PersonX buys a new plant,60.0,1,2,2,True,50.0
+28,7813,PersonX sells PersonY's ___ dearly,90.0,2,2,2,True,100.0
+28,8374,PersonX takes PersonY inventory,60.0,2,2,2,True,100.0
+28,8476,PersonX takes PersonY in PersonY's arms,70.0,2,2,2,True,100.0
+30,1042,PersonX buys the book,90.0,1,1,1,True,100.0
+30,1746,PersonX enters ___ eating contest,90.0,1,1,1,True,100.0
+30,1786,PersonX enters a competition,80.0,1,1,1,True,100.0
+30,1974,PersonX fills PersonY's ___ to lie,100.0,1,1,1,True,100.0
+30,2554,PersonX gets PersonY a job,100.0,1,1,1,True,100.0
+30,2641,PersonX gets ___ from work,100.0,1,1,1,True,100.0
+30,3387,PersonX gets fat,100.0,1,1,1,True,100.0
+30,3406,PersonX gets great grades in school,100.0,1,1,1,True,100.0
+30,3491,PersonX gets it checked out,100.0,1,1,1,True,100.0
+30,4233,PersonX gives PersonY a bit,100.0,1,1,1,True,100.0
+30,4985,PersonX gives ___ a puppy,80.0,1,1,1,True,100.0
+30,5073,PersonX gives ___ medicine,70.0,1,1,1,True,100.0
+30,5539,PersonX has any money though,90.0,1,1,1,True,100.0
+30,575,PersonX buys ___ the next day,100.0,1,1,1,True,100.0
+30,6049,PersonX is short on money,80.0,1,1,1,True,100.0
+30,8113,PersonX stops hurting,60.0,1,1,1,True,100.0
+30,8623,PersonX takes PersonY's girlfriend out to dinner,100.0,1,1,1,True,100.0
+30,9194,PersonX takes a break,100.0,1,1,1,True,100.0
+30,9306,PersonX watches one with PersonY,90.0,1,1,1,True,100.0
+30,969,PersonX buys my son,90.0,1,1,1,True,100.0
+33,1008,PersonX buys books,70.0,2,2,2,True,100.0
+33,2287,PersonX gets PersonX's lunch,80.0,2,2,2,True,100.0
+33,2476,PersonX gets PersonY's back up,90.0,2,2,2,True,100.0
+33,2738,PersonX gets ___ that day,65.0,1,2,2,True,50.0
+33,2942,PersonX gets a lot of candy,75.0,2,2,2,True,100.0
+33,2973,PersonX gets a fire going,70.0,2,2,2,True,100.0
+33,3325,PersonX gets done today,70.0,2,2,2,True,100.0
+33,3716,PersonX gets ready to go to work,70.0,2,2,2,True,100.0
+33,40,PersonX advises PersonY to take,60.0,2,2,2,True,100.0
+33,4567,PersonX gives PersonY flowers,60.0,1,2,2,True,50.0
+33,5134,PersonX gives ___ to one,85.0,2,2,2,True,100.0
+33,5377,PersonX gives thanks to god,45.0,1,2,2,True,50.0
+33,5597,PersonX has to buy a new one,40.0,1,2,2,True,50.0
+33,6680,PersonX opens PersonY's ___ wide,95.0,2,2,2,True,100.0
+33,682,PersonX buys a gallon of milk,90.0,2,2,2,True,100.0
+33,686,PersonX buys ___ for the family,95.0,2,2,2,True,100.0
+33,6880,PersonX pays PersonY's ___ in full,55.0,1,2,2,True,50.0
+33,7600,PersonX puts the money,85.0,2,2,2,True,100.0
+33,8096,PersonX steals one,90.0,2,2,2,True,100.0
+33,9289,PersonX takes a field trip,75.0,2,2,2,True,100.0
+34,1498,PersonX does not get the job,90.0,1,1,1,True,100.0
+34,2047,PersonX follows the doctor 's ___,80.0,1,1,1,True,100.0
+34,2347,PersonX gets PersonX's money 's ___,90.0,1,1,1,True,100.0
+34,2575,PersonX gets PersonY's towel,80.0,1,1,1,True,100.0
+34,3006,PersonX gets a payday loan,90.0,1,1,1,True,100.0
+34,3694,PersonX gets married,80.0,1,1,1,True,100.0
+34,3846,PersonX gets spooked,90.0,1,1,1,True,100.0
+34,4269,PersonX gives PersonY a grin,80.0,1,1,1,True,100.0
+34,4728,PersonX gives PersonY space,70.0,1,1,1,True,100.0
+34,5888,PersonX hurts badly,80.0,1,1,1,True,100.0
+34,6786,PersonX never used ___,80.0,1,1,1,True,100.0
+34,7136,PersonX persuades the ___ to give,80.0,1,1,1,True,100.0
+34,7334,PersonX pulls PersonY's knees,80.0,1,1,1,True,100.0
+34,7408,PersonX pulls out of the hat,80.0,1,1,1,True,100.0
+34,745,PersonX buys a new home,80.0,1,1,1,True,100.0
+34,7605,PersonX raises the money,80.0,1,1,1,True,100.0
+34,7816,PersonX sells ___ at prices,70.0,1,1,1,True,100.0
+34,7847,PersonX sells PersonX's ___ in the market,70.0,1,1,1,True,100.0
+34,8002,PersonX smells something burning,80.0,1,1,1,True,100.0
+34,8961,PersonX takes ___ personally,70.0,1,1,1,True,100.0
+35,112,PersonX beats PersonY's personal record,70.0,1,1,1,True,100.0
+35,1265,PersonX cuts PersonX's losses,50.0,0,1,1,True,0.0
+35,2448,PersonX gets PersonY's ___ away,100.0,1,1,1,True,100.0
+35,260,PersonX breaks apart,80.0,1,1,1,True,100.0
+35,2903,PersonX gets a good job,50.0,0,1,1,True,0.0
+35,3397,PersonX gets fixed,90.0,1,1,1,True,100.0
+35,3689,PersonX gets promoted,100.0,1,1,1,True,100.0
+35,3878,PersonX gets the book,100.0,1,1,1,True,100.0
+35,4224,PersonX gives PersonY a bath,100.0,1,1,1,True,100.0
+35,4881,PersonX gives PersonY's hand ___,100.0,1,1,1,True,100.0
+35,5254,PersonX gives it a bath,80.0,1,1,1,True,100.0
+35,5433,PersonX grabs PersonY's arm,90.0,1,1,1,True,100.0
+35,6065,PersonX is severely injured,100.0,1,1,1,True,100.0
+35,6242,PersonX kicks with the other foot,90.0,1,1,1,True,100.0
+35,7315,PersonX pulls PersonY's head,90.0,1,1,1,True,100.0
+35,740,PersonX buys a new cell phone,80.0,1,1,1,True,100.0
+35,7820,PersonX sells ___ at a price,90.0,1,1,1,True,100.0
+35,8169,PersonX takes PersonX's chance,100.0,1,1,1,True,100.0
+35,8298,PersonX takes PersonY at PersonZ's word,40.0,0,1,1,True,0.0
+35,9404,PersonX wins a lot of money,60.0,1,1,1,True,100.0
+36,1163,PersonX checks PersonY's watch,100.0,1,1,1,True,100.0
+36,1986,PersonX finally gets,80.0,1,1,1,True,100.0
+36,2016,PersonX follows PersonY's lead,90.0,1,1,1,True,100.0
+36,2171,PersonX forgets my wallet,100.0,1,1,1,True,100.0
+36,2247,PersonX gets PersonX's grades up,70.0,1,1,1,True,100.0
+36,2258,PersonX gets PersonX's girlfriend,90.0,1,1,1,True,100.0
+36,268,PersonX breaks both of PersonX's legs,100.0,1,1,1,True,100.0
+36,297,PersonX breaks both of PersonY's legs,70.0,0,1,1,True,0.0
+36,3136,PersonX gets along well,90.0,1,1,1,True,100.0
+36,3214,PersonX gets back to the hotel,100.0,1,1,1,True,100.0
+36,3323,PersonX gets compliments,100.0,1,1,1,True,100.0
+36,3402,PersonX gets frustrated,100.0,1,1,1,True,100.0
+36,4461,PersonX gives PersonY advantage,100.0,1,1,1,True,100.0
+36,4750,PersonX gives PersonY the heave-ho,90.0,1,1,1,True,100.0
+36,56,PersonX badly burned,80.0,1,1,1,True,100.0
+36,6070,PersonX is going to get married,90.0,1,1,1,True,100.0
+36,6460,PersonX makes extra money,100.0,1,1,1,True,100.0
+36,7157,PersonX plays tricks,90.0,1,1,1,True,100.0
+36,7222,PersonX pries open ___,100.0,1,1,1,True,100.0
+36,7487,PersonX pushes PersonY out of the way,70.0,1,1,1,True,100.0
+38,2613,PersonX gets ___ at work,80.0,1,1,1,True,100.0
+38,3389,PersonX gets everywhere,90.0,1,1,1,True,100.0
+38,3611,PersonX gets mail,90.0,1,1,1,True,100.0
+38,3732,PersonX gets married in PersonY,80.0,1,1,1,True,100.0
+38,3787,PersonX gets soaking wet,90.0,1,1,1,True,100.0
+38,3949,PersonX gets straight a 's,90.0,1,1,1,True,100.0
+38,4117,PersonX gives PersonX's friends ___,90.0,1,1,1,True,100.0
+38,5765,PersonX hits a telephone pole,80.0,1,1,1,True,100.0
+38,5778,PersonX hits it big,80.0,1,1,1,True,100.0
+38,5887,PersonX hurts badly,80.0,1,1,1,True,100.0
+38,6213,PersonX kisses the gunners daughter,40.0,0,1,1,True,0.0
+38,6231,PersonX kills the fatted calf,50.0,1,1,1,True,100.0
+38,6386,PersonX loses all PersonX's money,50.0,1,1,1,True,100.0
+38,6464,PersonX makes breakfast for PersonX's family,90.0,1,1,1,True,100.0
+38,7069,PersonX pays someone,100.0,1,1,1,True,100.0
+38,8666,PersonX takes PersonY's dog out,40.0,0,1,1,True,0.0
+38,8985,PersonX takes ___ to arrive,90.0,1,1,1,True,100.0
+38,9061,PersonX takes ___ to protect,60.0,1,1,1,True,100.0
+38,9126,PersonX takes ___ to the library,90.0,1,1,1,True,100.0
+38,9167,PersonX takes ___ to the mechanic,100.0,1,1,1,True,100.0
+40,1022,PersonX buys my ticket,70.0,1,2,2,True,50.0
+40,1442,PersonX cuts the mustard,50.0,1,2,2,True,50.0
+40,2086,PersonX forgets PersonX's lines,85.0,2,2,2,True,100.0
+40,2110,PersonX forgets PersonX's keys,70.0,1,2,2,True,50.0
+40,2194,PersonX gets PersonX's ___ under control,95.0,2,2,2,True,100.0
+40,2229,PersonX gets PersonX's feet wet,55.0,1,2,2,True,50.0
+40,2365,PersonX gets PersonX's shorts in a knot,40.0,1,2,2,True,50.0
+40,2506,PersonX gets PersonY's hands,85.0,2,2,2,True,100.0
+40,2683,PersonX gets ___ late,80.0,2,2,2,True,100.0
+40,4613,PersonX gives PersonY interpretation,90.0,2,2,2,True,100.0
+40,4782,PersonX gives PersonY the opportunity,100.0,2,2,2,True,100.0
+40,4992,PersonX gives ___ a prescription,90.0,2,2,2,True,100.0
+40,5371,PersonX gives the reader PersonY idea,70.0,2,2,2,True,100.0
+40,6229,PersonX kills PersonY's wife,90.0,2,2,2,True,100.0
+40,6489,PersonX makes much money,90.0,2,2,2,True,100.0
+40,722,PersonX buys a new brush,90.0,2,2,2,True,100.0
+40,7311,PersonX pulls PersonY's hair,100.0,2,2,2,True,100.0
+40,8584,PersonX takes PersonY's dog for a walk,70.0,2,2,2,True,100.0
+40,8980,PersonX takes ___ out for a ride,100.0,2,2,2,True,100.0
+40,9193,PersonX takes a big bite,85.0,2,2,2,True,100.0
+42,1674,PersonX eats PersonX's gun,100.0,1,1,1,True,100.0
+42,1875,PersonX files PersonY's taxes,80.0,1,1,1,True,100.0
+42,2014,PersonX follows PersonY into the room,100.0,1,1,1,True,100.0
+42,2219,PersonX gets PersonX's claws out,90.0,1,1,1,True,100.0
+42,2712,PersonX gets ___ from a friend,60.0,1,1,1,True,100.0
+42,3244,PersonX gets bit,80.0,1,1,1,True,100.0
+42,3609,PersonX gets hired,70.0,1,1,1,True,100.0
+42,4561,PersonX gives PersonY assistance,90.0,1,1,1,True,100.0
+42,4789,PersonX gives PersonY the means,100.0,1,1,1,True,100.0
+42,5077,PersonX gives ___ the benefit of the doubt,80.0,1,1,1,True,100.0
+42,5338,PersonX gives the person ___,100.0,1,1,1,True,100.0
+42,5502,PersonX grabs a gun,80.0,1,1,1,True,100.0
+42,6658,PersonX opens PersonX's legs,60.0,1,1,1,True,100.0
+42,6659,PersonX opens PersonY door,100.0,1,1,1,True,100.0
+42,7287,PersonX pulls PersonY's back,90.0,1,1,1,True,100.0
+42,7680,PersonX receives PersonY payment,80.0,1,1,1,True,100.0
+42,8361,PersonX takes PersonY into account,100.0,1,1,1,True,100.0
+42,850,PersonX buys a shirt,80.0,1,1,1,True,100.0
+42,8622,PersonX takes PersonY's friends out,60.0,1,1,1,True,100.0
+42,8799,PersonX takes ___ in life,40.0,0,1,1,True,0.0
+43,1158,PersonX catches by the police,100.0,1,1,1,True,100.0
+43,1325,PersonX cuts a rug,90.0,1,1,1,True,100.0
+43,1715,PersonX enters PersonY's father 's ___,60.0,1,1,1,True,100.0
+43,2144,PersonX forgets something,90.0,1,1,1,True,100.0
+43,2656,PersonX gets ___ in the face,50.0,1,1,1,True,100.0
+43,2994,PersonX gets a new puppy ___,80.0,1,1,1,True,100.0
+43,3123,PersonX gets all of the ingredients,70.0,1,1,1,True,100.0
+43,3771,PersonX gets saved,70.0,1,1,1,True,100.0
+43,3782,PersonX gets so good,90.0,1,1,1,True,100.0
+43,4535,PersonX gives PersonY education,80.0,1,1,1,True,100.0
+43,4629,PersonX gives PersonY one,100.0,1,1,1,True,100.0
+43,4818,PersonX gives PersonY understanding,60.0,1,1,1,True,100.0
+43,520,PersonX buys PersonX's dad,80.0,1,1,1,True,100.0
+43,6313,PersonX lives paycheck to paycheck,90.0,1,1,1,True,100.0
+43,6633,PersonX opens PersonX's curtains,100.0,1,1,1,True,100.0
+43,6767,PersonX opens the front door,80.0,1,1,1,True,100.0
+43,6852,PersonX pays PersonY bill,100.0,1,1,1,True,100.0
+43,7177,PersonX plays tricks on PersonY,90.0,1,1,1,True,100.0
+43,822,PersonX buys a set,60.0,1,1,1,True,100.0
+43,8279,PersonX takes PersonX's road test,60.0,1,1,1,True,100.0
+44,1107,PersonX buys tickets,35.0,1,2,2,True,50.0
+44,1122,PersonX buys some new ones,85.0,2,2,2,True,100.0
+44,1142,PersonX calls to account,70.0,2,2,2,True,100.0
+44,1180,PersonX checks online,70.0,2,2,2,True,100.0
+44,2158,PersonX forgets the yeast,30.0,1,2,2,True,50.0
+44,239,PersonX breaks PersonX's mother 's favorite vase,35.0,0,2,2,True,0.0
+44,3107,PersonX gets a zero,60.0,2,2,2,True,100.0
+44,3590,PersonX gets married ___,75.0,2,2,2,True,100.0
+44,4064,PersonX gets very bored,45.0,1,2,2,True,50.0
+44,5355,PersonX gives the ultimate pleasure,30.0,0,2,2,True,0.0
+44,5379,PersonX gives the speech,85.0,2,2,2,True,100.0
+44,5403,PersonX goes and get ___,40.0,0,2,2,True,0.0
+44,714,PersonX buys a new battery,45.0,1,2,2,True,50.0
+44,7320,PersonX pulls PersonY's pants,60.0,1,2,2,True,50.0
+44,76,PersonX agrees to take PersonY,60.0,1,2,2,True,50.0
+44,7982,PersonX slaps PersonY in the face,60.0,1,2,2,True,50.0
+44,7999,PersonX spends a night in jail,80.0,2,2,2,True,100.0
+44,8067,PersonX starts a food fight,30.0,1,2,2,True,50.0
+44,8417,PersonX takes PersonY advice,60.0,2,2,2,True,100.0
+44,877,PersonX buys a new suit,20.0,0,2,2,True,0.0
+46,1009,PersonX buys books,100.0,1,1,1,True,100.0
+46,1722,PersonX drops the gloves,50.0,1,1,1,True,100.0
+46,2282,PersonX gets PersonX's friends together,100.0,1,1,1,True,100.0
+46,2837,PersonX gets a card,100.0,1,1,1,True,100.0
+46,3680,PersonX gets out of bed on the wrong side,50.0,1,1,1,True,100.0
+46,4693,PersonX gives PersonY some advice,100.0,1,1,1,True,100.0
+46,4865,PersonX gives PersonY what-for,100.0,1,1,1,True,100.0
+46,5214,PersonX gives it PersonX's name,50.0,1,1,1,True,100.0
+46,5908,PersonX invites PersonY to take,0.0,0,1,1,True,0.0
+46,6108,PersonX keeps the money,100.0,1,1,1,True,100.0
+46,6265,PersonX kicks the can down the road,100.0,1,1,1,True,100.0
+46,63,PersonX always watched,100.0,1,1,1,True,100.0
+46,7397,PersonX pulls out PersonY's phone,100.0,1,1,1,True,100.0
+46,7409,PersonX pulls the other leg,100.0,1,1,1,True,100.0
+46,8170,PersonX takes PersonX's chance,100.0,1,1,1,True,100.0
+46,8431,PersonX takes PersonY responsibility,100.0,1,1,1,True,100.0
+46,8489,PersonX takes PersonY to the er,100.0,1,1,1,True,100.0
+46,853,PersonX buys a new watch,100.0,1,1,1,True,100.0
+46,8783,PersonX takes ___ in PersonX's stride,50.0,1,1,1,True,100.0
+46,9386,PersonX would take care of it,100.0,1,1,1,True,100.0
+48,1115,PersonX can barely get out of bed,55.0,1,2,2,True,50.0
+48,1131,PersonX calls the fire department,75.0,2,2,2,True,100.0
+48,1376,PersonX decides to buy a lottery ticket,70.0,1,2,2,True,50.0
+48,1731,PersonX enters a marathon,75.0,2,2,2,True,100.0
+48,2590,PersonX gets ___ at night,80.0,2,2,2,True,100.0
+48,2973,PersonX gets a fire going,90.0,2,2,2,True,100.0
+48,365,PersonX breaks ranks,70.0,1,2,2,True,50.0
+48,4623,PersonX gives PersonY leave,80.0,2,2,2,True,100.0
+48,4797,PersonX gives PersonY things,95.0,2,2,2,True,100.0
+48,4958,PersonX gives ___ a high five,60.0,1,2,2,True,50.0
+48,5055,PersonX gives ___ some milk,55.0,1,2,2,True,50.0
+48,5496,PersonX grabs PersonY's shoulders,75.0,2,2,2,True,100.0
+48,6064,PersonX is seriously hurt,90.0,2,2,2,True,100.0
+48,6218,PersonX kills PersonY's mother,95.0,2,2,2,True,100.0
+48,7255,PersonX protects ___ from abuse,70.0,1,2,2,True,50.0
+48,8161,PersonX takes PersonX's children,90.0,2,2,2,True,100.0
+48,8450,PersonX takes PersonY everywhere,80.0,2,2,2,True,100.0
+48,8576,PersonX takes PersonY's dog on a walk,65.0,1,2,2,True,50.0
+48,8990,PersonX takes ___ to a movie,85.0,2,2,2,True,100.0
+48,92,PersonX always beats,70.0,1,2,2,True,50.0
+49,1797,PersonX feels a little guilty,100.0,1,1,1,True,100.0
+49,2779,PersonX gets ___ off PersonX's chest,100.0,1,1,1,True,100.0
+49,2829,PersonX gets a call back,100.0,1,1,1,True,100.0
+49,2897,PersonX gets a grip,90.0,1,1,1,True,100.0
+49,3533,PersonX gets it to work,90.0,1,1,1,True,100.0
+49,3949,PersonX gets straight a 's,100.0,1,1,1,True,100.0
+49,5497,PersonX grabs PersonY's hands,90.0,1,1,1,True,100.0
+49,5830,PersonX hits the deer,80.0,1,1,1,True,100.0
+49,6851,PersonX pays PersonY bill,90.0,1,1,1,True,100.0
+49,7562,PersonX pushes the ___ forward,100.0,1,1,1,True,100.0
+49,7632,PersonX reads online,100.0,1,1,1,True,100.0
+49,7771,PersonX sells PersonX's ___ to the devil,100.0,1,1,1,True,100.0
+49,8071,PersonX spends too much money,90.0,1,1,1,True,100.0
+49,8474,PersonX takes PersonY to jail,100.0,1,1,1,True,100.0
+49,8660,PersonX takes PersonY's order,90.0,1,1,1,True,100.0
+49,8790,PersonX takes ___ in college,100.0,1,1,1,True,100.0
+49,9057,PersonX takes ___ to mcdonald 's,90.0,1,1,1,True,100.0
+49,9170,PersonX takes ___ to the vet,100.0,1,1,1,True,100.0
+49,9240,PersonX takes ___ to the market,100.0,1,1,1,True,100.0
+49,925,PersonX buys dog food,100.0,1,1,1,True,100.0
+51,1242,PersonX cuts PersonX's coat according to PersonX's cloth,50.0,0,1,1,True,0.0
+51,1349,PersonX cuts the ___ in two,100.0,1,1,1,True,100.0
+51,2590,PersonX gets ___ at night,100.0,1,1,1,True,100.0
+51,2805,PersonX gets a bath,30.0,0,1,1,True,0.0
+51,3472,PersonX gets dressed up,70.0,1,1,1,True,100.0
+51,3765,PersonX gets scared,90.0,1,1,1,True,100.0
+51,4293,PersonX gives PersonY a gift card,40.0,0,1,1,True,0.0
+51,4323,PersonX gives PersonY a job,80.0,1,1,1,True,100.0
+51,4452,PersonX gives PersonY a time,80.0,1,1,1,True,100.0
+51,4765,PersonX gives PersonY the business,60.0,1,1,1,True,100.0
+51,4811,PersonX gives PersonY the idea,100.0,1,1,1,True,100.0
+51,4834,PersonX gives PersonY uneasiness,90.0,1,1,1,True,100.0
+51,4908,PersonX gives PersonY's hand,100.0,1,1,1,True,100.0
+51,6132,PersonX keeps my eyes open,90.0,1,1,1,True,100.0
+51,7541,PersonX puts ___ to good use,90.0,1,1,1,True,100.0
+51,8288,PersonX takes PersonX's truck,100.0,1,1,1,True,100.0
+51,83,PersonX asks ___ for money,80.0,1,1,1,True,100.0
+51,8452,PersonX takes PersonY to a movie,90.0,1,1,1,True,100.0
+51,9049,PersonX takes ___ of this opportunity,90.0,1,1,1,True,100.0
+51,9341,PersonX watches what PersonY ate,80.0,1,1,1,True,100.0
+52,1397,PersonX decides to buy it,90.0,1,1,1,True,100.0
+52,1894,PersonX files for unemployment,70.0,1,1,1,True,100.0
+52,2512,PersonX gets PersonY's friends together,80.0,1,1,1,True,100.0
+52,3382,PersonX gets fired,90.0,1,1,1,True,100.0
+52,4828,PersonX gives PersonY training,90.0,1,1,1,True,100.0
+52,5393,PersonX goes and buy ___,90.0,1,1,1,True,100.0
+52,5469,PersonX goes and get,90.0,1,1,1,True,100.0
+52,5904,PersonX immediately opened ___,100.0,1,1,1,True,100.0
+52,6059,PersonX is badly hurt,80.0,1,1,1,True,100.0
+52,6871,PersonX pays PersonY debts,80.0,1,1,1,True,100.0
+52,6900,PersonX pays PersonX's debt,60.0,1,1,1,True,100.0
+52,8077,PersonX starts a fight,80.0,1,1,1,True,100.0
+52,810,PersonX buys a new truck,60.0,1,1,1,True,100.0
+52,8207,PersonX takes PersonX's friends out,70.0,1,1,1,True,100.0
+52,8373,PersonX takes PersonY inventory,100.0,1,1,1,True,100.0
+52,8457,PersonX takes PersonY to PersonX's favorite restaurant,50.0,1,1,1,True,100.0
+52,8761,PersonX takes ___ every day,70.0,1,1,1,True,100.0
+52,9019,PersonX takes ___ to heart,60.0,1,1,1,True,100.0
+52,9136,PersonX takes ___ to vegas,70.0,1,1,1,True,100.0
+52,965,PersonX buys new glasses,50.0,1,1,1,True,100.0
+53,1029,PersonX buys some snacks,30.0,0,2,2,True,0.0
+53,1300,PersonX cuts a swath,85.0,2,2,2,True,100.0
+53,1342,PersonX cuts it fine,50.0,1,2,2,True,50.0
+53,2914,PersonX gets a letter,85.0,2,2,2,True,100.0
+53,3247,PersonX gets blood out of a stone,60.0,1,2,2,True,50.0
+53,4881,PersonX gives PersonY's hand ___,100.0,2,2,2,True,100.0
+53,499,PersonX buys ___ at the gas station,85.0,2,2,2,True,100.0
+53,5247,PersonX gives notice,80.0,2,2,2,True,100.0
+53,5357,PersonX gives the woman ___,90.0,2,2,2,True,100.0
+53,5656,PersonX hides PersonX's face in PersonX's hands,75.0,2,2,2,True,100.0
+53,5752,PersonX hits a parked car,75.0,2,2,2,True,100.0
+53,5794,PersonX hits the bottle,50.0,1,2,2,True,50.0
+53,7162,PersonX plays ___ online,100.0,2,2,2,True,100.0
+53,7201,PersonX posts it online,100.0,2,2,2,True,100.0
+53,7722,PersonX saves money on bread,45.0,1,2,2,True,50.0
+53,8257,PersonX takes PersonX's first step,85.0,2,2,2,True,100.0
+53,8666,PersonX takes PersonY's dog out,75.0,2,2,2,True,100.0
+53,8954,PersonX takes ___ on a walk,95.0,2,2,2,True,100.0
+53,8990,PersonX takes ___ to a movie,70.0,1,2,2,True,50.0
+53,9298,PersonX watches a horror movie,35.0,1,2,2,True,50.0
+55,1030,PersonX buys some shoes,55.0,1,2,2,True,50.0
+55,2557,PersonX gets PersonY's picture taken,85.0,2,2,2,True,100.0
+55,2604,PersonX gets ___ away,95.0,2,2,2,True,100.0
+55,3038,PersonX gets a raise,60.0,2,2,2,True,100.0
+55,3839,PersonX gets something to drink,20.0,0,2,2,True,0.0
+55,3865,PersonX gets sad,30.0,1,2,2,True,50.0
+55,4833,PersonX gives PersonY uneasiness,70.0,1,2,2,True,50.0
+55,5529,PersonX grabs and go,95.0,2,2,2,True,100.0
+55,5605,PersonX has to pay a fine,65.0,2,2,2,True,100.0
+55,564,PersonX buys ___ for the new school year,30.0,1,2,2,True,50.0
+55,6139,PersonX kills PersonX's son,40.0,1,2,2,True,50.0
+55,6274,PersonX licks PersonX's wounds,40.0,1,2,2,True,50.0
+55,6491,PersonX loses no ___ in getting,55.0,1,2,2,True,50.0
+55,6543,PersonX needs some extra money,90.0,2,2,2,True,100.0
+55,7298,PersonX pulls PersonY closer,90.0,2,2,2,True,100.0
+55,7338,PersonX pulls PersonY's hand away,90.0,2,2,2,True,100.0
+55,762,PersonX buys a new pet,70.0,2,2,2,True,100.0
+55,8025,PersonX spends PersonY's money,75.0,2,2,2,True,100.0
+55,8728,PersonX takes ___ as a sign,85.0,2,2,2,True,100.0
+55,8855,PersonX takes ___ for a ride,65.0,1,2,2,True,50.0
+58,1006,PersonX buys some wood,40.0,0,1,1,True,0.0
+58,1328,PersonX cuts ___ in half,90.0,1,1,1,True,100.0
+58,1598,PersonX drops a log,60.0,1,1,1,True,100.0
+58,1619,PersonX drops the bag,70.0,1,1,1,True,100.0
+58,1633,PersonX drops to PersonY's knees,60.0,1,1,1,True,100.0
+58,3159,PersonX gets an a on PersonX's test,90.0,1,1,1,True,100.0
+58,3507,PersonX gets into PersonY's car,100.0,1,1,1,True,100.0
+58,3616,PersonX gets my license,90.0,1,1,1,True,100.0
+58,3784,PersonX gets sick to PersonX's stomach,90.0,1,1,1,True,100.0
+58,5027,PersonX gives ___ a headache,50.0,0,1,1,True,0.0
+58,5667,PersonX hides in PersonY's closet,80.0,1,1,1,True,100.0
+58,7031,PersonX pays PersonY another ___,80.0,1,1,1,True,100.0
+58,7136,PersonX persuades the ___ to give,90.0,1,1,1,True,100.0
+58,7943,PersonX shoots a three pointer,70.0,1,1,1,True,100.0
+58,8096,PersonX steals one,70.0,1,1,1,True,100.0
+58,835,PersonX buys a puppy,80.0,1,1,1,True,100.0
+58,8387,PersonX takes PersonY opportunity,90.0,1,1,1,True,100.0
+58,8965,PersonX takes ___ soon,80.0,1,1,1,True,100.0
+58,8992,PersonX takes ___ to ensure,80.0,1,1,1,True,100.0
+58,9162,PersonX takes ___ too far,30.0,0,1,1,True,0.0
+59,1000,PersonX buys some ear plugs,100.0,2,2,2,True,100.0
+59,1056,PersonX buys the car,65.0,1,2,2,True,50.0
+59,161,PersonX asks PersonY to take,85.0,2,2,2,True,100.0
+59,186,PersonX breaketh the ___ in pieces,90.0,2,2,2,True,100.0
+59,2258,PersonX gets PersonX's girlfriend,80.0,2,2,2,True,100.0
+59,2857,PersonX gets a closer look,75.0,1,2,2,True,50.0
+59,3202,PersonX gets back to PersonY,90.0,2,2,2,True,100.0
+59,3204,PersonX gets back in the car,75.0,2,2,2,True,100.0
+59,3667,PersonX gets mad at PersonY,85.0,2,2,2,True,100.0
+59,3937,PersonX gets the ice cream,85.0,2,2,2,True,100.0
+59,4496,PersonX gives PersonY back,55.0,1,2,2,True,50.0
+59,4724,PersonX gives PersonY security,90.0,2,2,2,True,100.0
+59,5472,PersonX grabs PersonY's bags,75.0,1,2,2,True,50.0
+59,5698,PersonX hits PersonY in the head,80.0,2,2,2,True,100.0
+59,5727,PersonX hits ___ from behind,95.0,2,2,2,True,100.0
+59,5832,PersonX hits the rocks,15.0,0,2,2,True,0.0
+59,6453,PersonX makes a break for it,100.0,2,2,2,True,100.0
+59,656,PersonX buys a camera,80.0,2,2,2,True,100.0
+59,6611,PersonX obtains a ___ as possible,100.0,2,2,2,True,100.0
+59,7643,PersonX raises ___ to pay,85.0,2,2,2,True,100.0
