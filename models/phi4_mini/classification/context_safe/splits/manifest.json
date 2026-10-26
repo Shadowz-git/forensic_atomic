@@ -1,0 +1,21 @@
+{
+  "dataset_sha256": "a37310fa5309528f86a2110d8397c84f57938510fce0fd4ead00fa2be2d3e177",
+  "seed": 123,
+  "clean_method": "kaggle_extended_taxonomy_parenthetical_safe_v3",
+  "original_count": 9175,
+  "created_utc": "2026-10-22T20:45:30.119891+00:00",
+  "attempt": 0,
+  "split_counts": {
+    "train": 6422,
+    "val": 1376,
+    "test": 1377
+  },
+  "changed_contexts": 4264,
+  "remaining_explicit_label_contexts": 852,
+  "file_sha256": {
+    "train.jsonl": "26ca5ffb38f3998ddb388f38a9bd5a348f649513e74ec23d2562d00fcedc170d",
+    "val.jsonl": "9332748f7f338b31cf05e433ad2f50439d2ae0a367c31530483679919274f4d9",
+    "test.jsonl": "a3c301bf094d0aa1c09791a44874caa8d9d067115db3a19c2fbe86063bd126a1",
+    "taxonomy.json": "05258db72b2e525442cb26884066b833b11a130f9e6ceba29d757b8f6ff1d707"
+  }
+}

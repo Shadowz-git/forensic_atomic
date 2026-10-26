@@ -1,0 +1,11 @@
+{
+  "experiment": "context_truncation_original_seed123",
+  "name": "C_clean_ft_test_1377",
+  "data_sha256": "a3c301bf094d0aa1c09791a44874caa8d9d067115db3a19c2fbe86063bd126a1",
+  "model": "microsoft/Phi-4-mini-instruct",
+  "adapter": null,
+  "max_items_per_relation": 0,
+  "prompt_sha256": "696a62fe7988d9abba362717f8eecb08cb67fc173fbbb49aaf6f3a6d9069a505",
+  "n": 1377,
+  "archived_adapter_missing": true
+}

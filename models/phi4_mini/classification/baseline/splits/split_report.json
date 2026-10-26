@@ -1,0 +1,11 @@
+{
+  "seed": 42,
+  "attempt": 0,
+  "source": "data/forensic_atomic.csv",
+  "n_rows": 9175,
+  "train": 6421,
+  "val": 1377,
+  "test": 1377,
+  "missing_train_pairs": [],
+  "method": "grouped by normalized event, approximately 70/15/15"
+}

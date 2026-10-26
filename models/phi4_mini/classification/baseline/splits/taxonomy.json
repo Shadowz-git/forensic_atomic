@@ -1,0 +1,40 @@
+{
+  "Cyber Crimes": [
+    "Hacking",
+    "Identity Theft",
+    "Online Harassment",
+    "Phishing"
+  ],
+  "Financial Crimes": [
+    "Bribery",
+    "Embezzlement",
+    "Fraud",
+    "Money Laundering",
+    "Tax Evasion"
+  ],
+  "Organized Crimes": [
+    "Drug Trafficking",
+    "Human Trafficking",
+    "Racketeering",
+    "Weapon Smuggling"
+  ],
+  "Property Crimes": [
+    "Arson",
+    "Burglary",
+    "Theft",
+    "Trespassing",
+    "Vandalism"
+  ],
+  "Public Order/Justice": [
+    "Disorderly Conduct",
+    "Obstruction of Justice",
+    "Perjury"
+  ],
+  "Violent Crimes": [
+    "Assault",
+    "Homicide",
+    "Kidnapping",
+    "Robbery",
+    "Sexual Offense"
+  ]
+}

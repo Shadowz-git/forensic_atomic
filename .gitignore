@@ -13,3 +13,11 @@ implementation/data/split
 **/forensic_model_*/
 
 implementation/logs
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Phi-4-mini adapter weights and checkpoints
+models/phi4_mini/**/adapters/

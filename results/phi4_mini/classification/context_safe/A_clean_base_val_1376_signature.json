@@ -1,0 +1,10 @@
+{
+  "experiment": "context_truncation_original_seed123",
+  "name": "A_clean_base_val_1376",
+  "data_sha256": "9332748f7f338b31cf05e433ad2f50439d2ae0a367c31530483679919274f4d9",
+  "model": "microsoft/Phi-4-mini-instruct",
+  "adapter": null,
+  "max_items_per_relation": 0,
+  "prompt_sha256": "632a6be980cf4faf4ee73a49ade70625cdb81bc36e6f32f4ec75ca74bfb19ac9",
+  "n": 1376
+}

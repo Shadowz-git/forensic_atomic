@@ -1,0 +1,10 @@
+{
+  "n": 1377,
+  "category_accuracy": 0.8700072621641249,
+  "category_macro_f1": 0.8274570728158276,
+  "subcategory_accuracy": 0.7799564270152506,
+  "subcategory_macro_f1": 0.7098282799759321,
+  "pair_accuracy": 0.7654320987654321,
+  "json_valid_rate": 1.0,
+  "allowed_pair_rate": 0.9244734931009441
+}
