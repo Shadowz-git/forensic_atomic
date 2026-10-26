@@ -1,4 +1,5 @@
 # Forensic ATOMIC: Generative Commonsense Reasoning
+
 This project implements an asynchronous pipeline to generate, validate, and train a **Forensic Knowledge Graph**.
 
 By providing a new version of the **ATOMIC** dataset in forensic format, we extend the events of the original dataset by introducing a criminal, suspicious, or partially harmless context using large language models (LLMs).
@@ -6,6 +7,8 @@ By providing a new version of the **ATOMIC** dataset in forensic format, we exte
 ## Contributions
 
 - Generates multiple forensic interpretations (violent, financial, cyber) for a single event. 
+- Fine-tunes Phi-4-mini for crime category classification and generation on unseen events.
+- Compares recorded LLM tribunal decisions with historical and new human judgments.
 
 ---
 
@@ -33,6 +36,8 @@ The complete judgment audit log and aggregated statistics are available in [`dat
 
 The final validated dataset is in [`data/forensic_atomic.csv`](data/forensic_atomic.csv).
 
+The Phi-4-mini experiments and human judgment comparisons are documented in [models/phi4_mini/](models/phi4_mini/README.md) and [analysis/](analysis/README.md). Their saved tables and figures are under `results/`.
+
 ---
 
 ## Project structure
@@ -43,7 +48,10 @@ The final validated dataset is in [`data/forensic_atomic.csv`](data/forensic_ato
 | [**core/**](./core/README.md)                   | **Core.** Generator and state manager on Redis.                                  |
 | [**tools/**](./tools/README.md)                 | **Tools.** Scripts for cleaning, splitting, and quality control of the dataset.  |
 | [**data/**](./data/README.md)                   | **Data.** Input/Output CSVs and processed data.                                  |
-| [**form_creation/**](./form_creation/README.md) | **Form Creation.** Script to generate Google Forms trough Google API and results |
+| [**form_creation/**](./form_creation/README.md) | **Form Creation.** Script to generate Google Forms through Google API and results |
+| [**models/phi4_mini/**](./models/phi4_mini/README.md) | **Models.** Phi-4-mini classification and generation experiments.             |
+| [**analysis/**](./analysis/README.md)         | **Analysis.** Historical and unified human–LLM judgment comparisons.           |
+| [**results/**](./results/)                     | **Results.** Saved model predictions, statistics, and figures.                 |
 
 ---
 
@@ -106,28 +114,31 @@ JUDGEMENT_FILE=data/judgements_log.csv
 ---
 
 ## Workflow
+
 ### 1. Generation phase
 
-**Initialization and Filtering:**
-Prepares the input by filtering from the original ATOMIC dataset.
-```bash
-python main.py --use-filtered --filter-only
-```
-
-**Massive Generation:**
-Launches asynchronous processes to make requests to the LLM.
-```bash
-python main.py --use-filtered --workers 30
-```
-*Output:* `data/forensic_atomic.csv`
+The filtering and generation components are under `core/`, and the ATOMIC source files are under `data/atomic_dataset/`. This checkout does not contain a top-level `main.py` launcher. The existing validated output is `data/forensic_atomic.csv`.
 
 ### 2. Evaluating Phase
 Post-Generation Tribunal:
 Validates the raw generated dataset using a Multi-Agent Tribunal (GPT, Claude, Gemini). This step filters out hallucinations, enforces forensic logic through majority voting, and attempts to rewrite rejected inferences (if selected).
 ```bash 
-python tools/post_generation_judge.py --input data/forensic_atomicl.csv --output data/forensic_atomic_judged.csv --workers 3
+python tools/post_generation_judge.py --input data/pre-judge_forensic_atomic.csv --output data/forensic_atomic_judged.csv --workers 3
 ```
 
 *Output*: `data/forensic_atomic_judged.csv`
 
 ---
+
+### 3. Phi-4-mini experiments and thesis statistics
+
+The classification notebooks are in `models/phi4_mini/classification/`. The generation notebooks are in `models/phi4_mini/generation/`; they compare base and fine-tuned Phi-4-mini with DeepSeek on 35 unseen events. Training and inference require the separate Poetry environment in `models/phi4_mini/`, and full training requires a compatible CUDA GPU. Adapter weights are not included.
+
+To regenerate saved statistics without a GPU, run these notebooks from their first cell:
+
+1. `models/phi4_mini/classification/03_results_summary.ipynb` — display saved classification comparisons.
+2. `models/phi4_mini/generation/04_clean_compare.ipynb` — regenerate generation comparison tables and figures.
+3. `models/phi4_mini/generation/05_audit_supplied_outputs.ipynb` — check additional prompt variants and DeepSeek judgments.
+4. `analysis/judgement_analysis_final.ipynb` — regenerate separate statistics for 550 historical and 671 unified human judgments in `results/human_llm/`.
+
+The supplied DeepSeek judge log covers 70 generated branches. An equivalent fine-tuned Phi-4 judge log and the exact prompts for the additional output variants are not available; see the [generation README](models/phi4_mini/generation/README.md) for details.
