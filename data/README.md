@@ -17,6 +17,7 @@ Contains all input and output files produced across the pipeline stages.
 
 ### Judgment Output
 - **`forensic_atomic.csv`** — Final validated dataset. Contains only the instances approved by the Multi-Judge Tribunal (majority vote ≥ 2/3, average score ≥ 60). This is the main output of the F-Atomic project.
+- **`forensic_atomic_human_validated.csv`** — Subset of `forensic_atomic.csv` after excluding the 75 events not approved in the unified human–LLM analysis. Human approval requires both a mean human score ≥ 50 and an approval percentage ≥ 50%. The file retains 9,100 rows, including the 596 human-approved events in the 671-event evaluation cohort.
 - **`judged_log.csv`** — Per-row audit log produced by the Tribunal. Records the individual verdict, score, and provider for each of the three judges, the final decision, and whether a rewrite was attempted.
 - **`judgement_summary.csv`** — Aggregated statistics over the full judgment run, produced by `tools/judgement_analysis.ipynb`. Includes total counts of approved, rejected and rewritten events, approval rate, agreement rate, and average scores.
 

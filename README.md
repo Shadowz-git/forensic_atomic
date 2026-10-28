@@ -34,7 +34,7 @@ The final F-Atomic dataset consists of **9,175 validated forensic instances**, e
 
 The complete judgment audit log and aggregated statistics are available in [`data/judged_log.csv`](./data/judged_log.csv) and [`data/judgement_summary.csv`](./data/judgement_summary.csv). 
 
-The final validated dataset is in [`data/forensic_atomic.csv`](data/forensic_atomic.csv).
+The tribunal-validated dataset is in [`data/forensic_atomic.csv`](data/forensic_atomic.csv) (9,175 rows). [`data/forensic_atomic_human_validated.csv`](data/forensic_atomic_human_validated.csv) contains 9,100 of those rows after excluding the 75 events not approved in the unified human evaluation. The human approval rule requires both a mean score ≥ 50 and an approval percentage ≥ 50%.
 
 The Phi-4-mini experiments and human judgment comparisons are documented in [models/phi4_mini/](models/phi4_mini/README.md) and [analysis/](analysis/README.md). Their saved tables and figures are under `results/`.
 
