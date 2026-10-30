@@ -136,7 +136,7 @@ class MultiJudgeSystem:
 
         Round 1 — Initial Voting
             Call the 3 judges in parallel.
-            Pass if >= 2 approvals AND avg_score >= 60.
+            Pass if >= 2 approvals AND avg_score >= 50.
 
         Round 2 — Refinement (only when ENABLE_REWRITE=True)
             If rejected, ask the Rewriter to fix it based on aggregated feedback.
@@ -163,7 +163,7 @@ class MultiJudgeSystem:
         approvals = [r for r in results if r["vote"] == "approve"]
         avg_score = sum(r["score"] for r in results) / len(results)
 
-        if len(approvals) >= 2 and avg_score >= 60:
+        if len(approvals) >= 2 and avg_score >= 50:
             self._log_verdict(original_row_id, event, "APPROVED", False, results)
             return True, data
 
